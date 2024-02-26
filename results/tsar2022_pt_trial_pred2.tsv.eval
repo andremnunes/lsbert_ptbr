@@ -1,0 +1,50 @@
+=========   EVALUATION config.=========
+GOLD file = /content/drive/MyDrive/tcc/BERT-LS-master/datasets/tsar2022_pt_test_gold.tsv
+PREDICTION LABELS file = /content/drive/MyDrive/tcc/BERT-LS-master/results/prediction_tsar_ptbr_bert2_num_10.txt
+OUTPUT file = /content/drive/MyDrive/tcc/BERT-LS-master/results/tsar2022_pt_trial_pred2.tsv.eval
+===============   RESULTS  =============
+MAP@1/Potential@1/Precision@1 = 0.4064
+
+MAP@3 = 0.2303
+MAP@5 = 0.1636
+MAP@10 = 0.0923
+
+Potential@3 = 0.5695
+Potential@5 = 0.6443
+Potential@10 = 0.6604
+
+Accuracy@1@top_gold_1 = 0.2192
+Accuracy@2@top_gold_1 = 0.2914
+Accuracy@3@top_gold_1 = 0.3155
+
+MacroAverage_Precision@1 = 0.4064
+MacroAverage_Precision@3 = 0.27
+MacroAverage_Precision@5 = 0.2152
+MacroAverage_Precision@10 = 0.1523
+
+MacroAverage_Recall@1 = 0.0579
+MacroAverage_Recall@3 = 0.1109
+MacroAverage_Recall@5 = 0.1478
+MacroAverage_Recall@10 = 0.179
+
+MacroAverage_F1@1 = 0.1013
+MacroAverage_F1@3 = 0.1573
+MacroAverage_F1@5 = 0.1752
+MacroAverage_F1@10 = 0.1645
+
+MicroAverage_Precision@1 = 0.4064
+MicroAverage_Precision@3 = 0.27
+MicroAverage_Precision@5 = 0.2158
+MicroAverage_Precision@10 = 0.1555
+
+MicroAverage_Recall@1 = 0.4064
+MicroAverage_Recall@3 = 0.27
+MicroAverage_Recall@5 = 0.2158
+MicroAverage_Recall@10 = 0.1555
+
+MicroAverage_F1@1 = 0.4064
+MicroAverage_F1@3 = 0.27
+MicroAverage_F1@5 = 0.2158
+MicroAverage_F1@10 = 0.1555
+
+________________________________

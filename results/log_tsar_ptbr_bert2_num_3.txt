@@ -1,0 +1,2244 @@
+
+Frase 0 rankings: ao prever a distribuição gratuita de uniforme para alunos da rede pública um projeto em discussão no congresso institui uma controvérsia em escolas prefeituras e secretarias de educação
+Palavra complexa: controvérsia
+Palavras candidatas BERT: polêmica	discussão	disputa	
+Palavras candidatas Ranqueadas: discussão	disputa	
+Substituta: discussão
+
+Frase 1 rankings: a matéria ainda precisa passar pela câmara dos deputados e pela presidência da república antes de entrar em vigor
+Palavra complexa: matéria
+Palavras candidatas BERT: lei	legislação	proposta	
+Palavras candidatas Ranqueadas: lei	legislação	proposta	
+Substituta: lei
+
+Frase 2 rankings: o acessório polêmico entrou no projeto de autoria do senador cícero lucena psdbpb graças a uma emenda aprovada na comissão de educação do senado em outubro
+Palavra complexa: polêmico
+Palavras candidatas BERT: [UNK]	não	que	
+Palavras candidatas Ranqueadas: que	não	
+Substituta: que
+
+Frase 3 rankings: toda a operação teria sido armada para vingar a morte de um companheiro em um atentado a bomba
+Palavra complexa: armada
+Palavras candidatas BERT: montada	feita	organizada	
+Palavras candidatas Ranqueadas: feita	montada	organizada	
+Substituta: feita
+
+Frase 4 rankings: blitze barreiras e operações em profusão foram insuficientes para conter um crescimento de 1112 em relação a março de 2006
+Palavra complexa: profusão
+Palavras candidatas BERT: excesso	geral	conjunto	
+Palavras candidatas Ranqueadas: excesso	geral	conjunto	
+Substituta: excesso
+
+Frase 5 rankings: o subcomandantegeral da bm coronel paulo roberto mendes reconheceu que o incremento nos roubos pode estar ligado a deficiências nas manobras adotadas
+Palavra complexa: incremento
+Palavras candidatas BERT: aumento	crescimento	avanço	
+Palavras candidatas Ranqueadas: aumento	crescimento	avanço	
+Substituta: aumento
+
+Frase 6 rankings: diferentemente de outros pleitos as legendas este ano são obrigadas a driblar novas regras eleitorais desgaste da imagem da classe política e projetos nacionais envolvendo líderes gaúchos
+Palavra complexa: desgaste
+Palavras candidatas BERT: [UNK]	acima	preservação	
+Palavras candidatas Ranqueadas: acima	preservação	
+Substituta: acima
+
+Frase 7 rankings: para os analistas políticos a indecisão eleitoral de 2006 é fruto de uma confluência de fatores
+Palavra complexa: fruto
+Palavras candidatas BERT: resultado	produto	resultante	
+Palavras candidatas Ranqueadas: resultado	produto	resultante	
+Substituta: resultado
+
+Frase 8 rankings: os partidos estão mais cautelosos
+Palavra complexa: cautelosos
+Palavras candidatas BERT: organizados	seguros	unidos	
+Palavras candidatas Ranqueadas: unidos	seguros	organizados	
+Substituta: unidos
+
+Frase 9 rankings: o relatório produzido pela comissão criada para revisar processos administrativos da assembléia legislativa destaca temas que devem provocar polêmica no parlamento
+Palavra complexa: revisar
+Palavras candidatas BERT: avaliar	analisar	discutir	
+Palavras candidatas Ranqueadas: analisar	avaliar	discutir	
+Substituta: analisar
+
+Frase 10 rankings: um deles se refere ao fato de cada deputado ter três carros cadastrados para fins de indenização por uso de carro particular
+Palavra complexa: cadastrados
+Palavras candidatas BERT: registrados	disponíveis	registrado	
+Palavras candidatas Ranqueadas: disponíveis	
+Substituta: disponíveis
+
+Frase 11 rankings: antunes vai apresentar o conteúdo do relatório hoje à mesa diretora e posteriormente implementar novas medidas de contenção e controle
+Palavra complexa: contenção
+Palavras candidatas BERT: fiscalização	prevenção	segurança	
+Palavras candidatas Ranqueadas: prevenção	segurança	
+Substituta: contenção
+
+Frase 12 rankings: viagens de carro ficam mais agradáveis quando os ocupantes podem fazer algo mais do que apreciar a paisagem
+Palavra complexa: ocupantes
+Palavras candidatas BERT: passageiros	viajantes	visitantes	
+Palavras candidatas Ranqueadas: passageiros	visitantes	viajantes	
+Substituta: passageiros
+
+Frase 13 rankings: uma arena suspensa com estacionamento subterrâneo e capacidade entre 45 e 50 mil espectadores
+Palavra complexa: espectadores
+Palavras candidatas BERT: pessoas	torcedores	visitantes	
+Palavras candidatas Ranqueadas: pessoas	visitantes	
+Substituta: pessoas
+
+Frase 14 rankings: apesar das boas intenções a organização das nações unidas para a educação a ciência e a cultura unesco tratou de se desvincular da escolha
+Palavra complexa: desvincular
+Palavras candidatas BERT: afastar	separar	retirar	
+Palavras candidatas Ranqueadas: afastar	retirar	separar	
+Substituta: afastar
+
+Frase 15 rankings: plácido domingo lembrou o maravilhoso senso de humor do parceiro italiano capaz de proporcionar momentos tão divertidos nos concertos dos três tenores que nós nos esquecíamos de que estávamos cantando para um público que pagará
+Palavra complexa: proporcionar
+Palavras candidatas BERT: criar	causar	fazer	
+Palavras candidatas Ranqueadas: criar	causar	fazer	
+Substituta: criar
+
+Frase 16 rankings: o regente indiano zubin mehta um dos principais colaboradores do tenor destacou que luciano tinha uma aura especial emanava sensações positivas
+Palavra complexa: emanava
+Palavras candidatas BERT: com	para	das	
+Palavras candidatas Ranqueadas: com	para	das	
+Substituta: com
+
+Frase 17 rankings: ele ressalta que o próximo trânsito ocorrerá somente em 9 de maio de 2016
+Palavra complexa: ressalta
+Palavras candidatas BERT: destaca	afirma	explica	
+Palavras candidatas Ranqueadas: afirma	destaca	explica	
+Substituta: afirma
+
+Frase 18 rankings: para evitar um novo desgaste político a administração federal não pretende influir ao menos por enquanto para que os senadores do pmdb contrários à cpmf sejam substituídos na ccj
+Palavra complexa: desgaste
+Palavras candidatas BERT: processo	escândalo	quadro	
+Palavras candidatas Ranqueadas: processo	escândalo	quadro	
+Substituta: processo
+
+Frase 19 rankings: começamos a encaminhar em novembro de 2005 e só na metade do ano passado acertamos tudo e eles começaram a confeccionar o produto afirma a coordenadora
+Palavra complexa: confeccionar
+Palavras candidatas BERT: produzir	elaborar	desenhar	
+Palavras candidatas Ranqueadas: produzir	elaborar	desenhar	
+Substituta: produzir
+
+Frase 20 rankings: é difícil parar com a depredação
+Palavra complexa: depredação
+Palavras candidatas BERT: violência	criminalidade	repressão	
+Palavras candidatas Ranqueadas: violência	criminalidade	repressão	
+Substituta: violência
+
+Frase 21 rankings: as bolsas podem cair o que não vai cair é a economia venezuelana que está pujante como nunca disse
+Palavra complexa: pujante
+Palavras candidatas BERT: crescendo	forte	firme	
+Palavras candidatas Ranqueadas: forte	crescendo	firme	
+Substituta: forte
+
+Frase 22 rankings: a principal celebração na comunidade judaica da capital ocorrerá amanhã no clube campestre macabi
+Palavra complexa: celebração
+Palavras candidatas BERT: comemoração	festa	homenagem	
+Palavras candidatas Ranqueadas: festa	comemoração	homenagem	
+Substituta: festa
+
+Frase 23 rankings: os donos argumentam que seus mascotes são limpos e saudáveis
+Palavra complexa: argumentam
+Palavras candidatas BERT: defendem	afirmam	acreditam	
+Palavras candidatas Ranqueadas: afirmam	acreditam	defendem	
+Substituta: afirmam
+
+Frase 24 rankings: o próprio ban kimoon que está no timor leste prometeu voltar a bali hoje para acompanhar de perto o diálogo e se necessário intervir para um acerto
+Palavra complexa: intervir
+Palavras candidatas BERT: agir	colaborar	contribuir	
+Palavras candidatas Ranqueadas: agir	colaborar	contribuir	
+Substituta: agir
+
+Frase 25 rankings: o anúncio foi feito pelo pontífice durante uma audiência geral na qual o papa informou que vai realizar uma nova assembléia de cardeais chamada de consistório
+Palavra complexa: pontífice
+Palavras candidatas BERT: papa	[UNK]	cardeal	
+Palavras candidatas Ranqueadas: papa	cardeal	
+Substituta: papa
+
+Frase 26 rankings: a musculação do dólar e a expectativa de maior preço dos grãos representam âncoras para enfrentar águas turbulentas
+Palavra complexa: turbulentas
+Palavras candidatas BERT: quentes	fortes	profundas	
+Palavras candidatas Ranqueadas: quentes	profundas	fortes	
+Substituta: quentes
+
+Frase 27 rankings: depois de perder um quarto da receita nas vendas ao exterior dos últimos dois anos os moveleiros também espreitam chances de recuperar rentabilidade com um dólar entre r 210 e r 215 segundo maristela cusin longhi presidente da associação das indústrias de móveis do estado do rio grande do sul
+Palavra complexa: espreitam
+Palavras candidatas BERT: têm	tem	terão	
+Palavras candidatas Ranqueadas: têm	tem	terão	
+Substituta: têm
+
+Frase 28 rankings: depois de perder um quarto da receita nas vendas ao exterior dos últimos dois anos os moveleiros também espreitam chances de recuperar rentabilidade com um dólar entre r 210 e r 215 segundo maristela cusin longhi presidente da associação das indústrias de móveis do estado do rio grande do sul
+Palavra complexa: rentabilidade
+Palavras candidatas BERT: [UNK]	mais	–	
+Palavras candidatas Ranqueadas: mais	
+Substituta: mais
+
+Frase 29 rankings: nas contas de antônio salton presidente da união brasileira de vitivinicultura uvibra a dose de importados no consumo nacional pode reduzir de 70 para 60 caso o dólar se mantenha acima de r 210
+Palavra complexa: reduzir
+Palavras candidatas BERT: cair	diminuir	aumentar	
+Palavras candidatas Ranqueadas: cair	diminuir	aumentar	
+Substituta: cair
+
+Frase 30 rankings: a expectativa está em torno do nome do deputado joão henrique blasi pmdb que foi o postulante mais votado pelo conselho da ordem dos advogados do brasil
+Palavra complexa: postulante
+Palavras candidatas BERT: [UNK]	deputado	candidato	
+Palavras candidatas Ranqueadas: candidato	deputado	
+Substituta: candidato
+
+Frase 31 rankings: o nosso é brasileiro colorido é um menino alegre com pontos de melancolia
+Palavra complexa: melancolia
+Palavras candidatas BERT: alegria	felicidade	humor	
+Palavras candidatas Ranqueadas: alegria	felicidade	humor	
+Substituta: alegria
+
+Frase 32 rankings: amarrado a uma árvore à mercê de centenas de abelhas o cavalo de um brigadiano tentou se desvencilhar com coices e corcoveadas das ferroadas que o mataram em 40 minutos ontem de manhã na redenção
+Palavra complexa: ferroadas
+Palavras candidatas BERT: [UNK]	mais	marcas	
+Palavras candidatas Ranqueadas: mais	marcas	
+Substituta: mais
+
+Frase 33 rankings: o animal deu alguns passos e começou a verter sangue pela boca
+Palavra complexa: verter
+Palavras candidatas BERT: passar	sair	ter	
+Palavras candidatas Ranqueadas: passar	sair	ter	
+Substituta: passar
+
+Frase 34 rankings: volmar geraldo da silva nunes próreitor em exercício de extensão e cultura da ufpel afirma que a instituição apenas atendeu às reivindicações dos colegas do norte
+Palavra complexa: reivindicações
+Palavras candidatas BERT: demandas	exigências	necessidades	
+Palavras candidatas Ranqueadas: demandas	exigências	necessidades	
+Substituta: demandas
+
+Frase 35 rankings: o banco central chinês aumentou recentemente o depósito compulsório à vista dos bancos retirando dinheiro de circulação para evitar especulação com ações uma das principais formas de investimento no país
+Palavra complexa: compulsório
+Palavras candidatas BERT: mensal	obrigatório	disponível	
+Palavras candidatas Ranqueadas: mensal	obrigatório	disponível	
+Substituta: mensal
+
+Frase 36 rankings: o recuo generalizado dos mercados foi utilizado pelo presidente do banco central henrique meirelles em defesa de uma atitude de prudência na condução da política econômica
+Palavra complexa: prudência
+Palavras candidatas BERT: equilíbrio	sabedoria	segurança	
+Palavras candidatas Ranqueadas: equilíbrio	sabedoria	segurança	
+Substituta: equilíbrio
+
+Frase 37 rankings: ao prever a distribuição gratuita de uniforme para alunos da rede pública um projeto em discussão no congresso institui uma controvérsia em escolas prefeituras e secretarias de educação
+Palavra complexa: institui
+Palavras candidatas BERT: cria	gera	provoca	
+Palavras candidatas Ranqueadas: cria	gera	provoca	
+Substituta: cria
+
+Frase 38 rankings: além de ressuscitar o debate sobre a obrigatoriedade de um traje padrão entre os alunos e reacender a preocupação com a escassez de recursos públicos a proposta cria uma discussão sobre a incorporação do boné no kit obrigatório
+Palavra complexa: ressuscitar
+Palavras candidatas BERT: [UNK]	criar	m	
+Palavras candidatas Ranqueadas: criar	
+Substituta: criar
+
+Frase 39 rankings: a divergência ocorre porque educadores como helvécio aguiar da faculdade de educação da universidade federal do rio grande do sul ufrgs afirmam que a peça é desnecessária no uniforme obrigatório
+Palavra complexa: divergência
+Palavras candidatas BERT: diferença	controvérsia	dúvida	
+Palavras candidatas Ranqueadas: diferença	controvérsia	dúvida	
+Substituta: diferença
+
+Frase 40 rankings: professores ainda temem que a distribuição do acessório dificulte a imposição nas classes de uma regra da boa conduta
+Palavra complexa: conduta
+Palavras candidatas BERT: postura	prática	ação	
+Palavras candidatas Ranqueadas: postura	prática	
+Substituta: conduta
+
+Frase 41 rankings: eles se inquietam com a fonte para custear os gastos milionários com a medida
+Palavra complexa: inquietam
+Palavras candidatas BERT: preocupa	ocupam	revolta	
+Palavras candidatas Ranqueadas: preocupa	ocupam	revolta	
+Substituta: preocupa
+
+Frase 42 rankings: não fosse o aspecto financeiro o projeto teria o apoio incondicional de balzano e do presidente da famurs flávio luiz lammel
+Palavra complexa: incondicional
+Palavras candidatas BERT: total	[UNK]	integral	
+Palavras candidatas Ranqueadas: total	integral	
+Substituta: total
+
+Frase 43 rankings: o premier classificou o episódio de crime horrível
+Palavra complexa: premier
+Palavras candidatas BERT: ator	prêmio	produtor	
+Palavras candidatas Ranqueadas: produtor	
+Substituta: produtor
+
+Frase 44 rankings: considerado culpado de ameaçar com um cachorro sem focinheira um dos detentos e de negligência no cumprimento do dever ele foi rebaixado e condenado ontem por um tribunal militar a 90 dias de trabalho forçado sem confinamento
+Palavra complexa: confinamento
+Palavras candidatas BERT: [UNK]	mais	fim	
+Palavras candidatas Ranqueadas: mais	fim	
+Substituta: mais
+
+Frase 45 rankings: blitze barreiras e operações em profusão foram insuficientes para conter um crescimento de 1112 em relação a março de 2006
+Palavra complexa: blitze
+Palavras candidatas BERT: barreiras	barreira	[UNK]	
+Palavras candidatas Ranqueadas: barreiras	barreira	
+Substituta: barreiras
+
+Frase 46 rankings: o secretário da segurança pública enio bacci disse que o aumento está ligado à legislação branda contra desmanches ao aumento da frota e ao chamado golpe do seguro quando o dono vende o carro a bandidos e recebe um novo da seguradora mas reconheceu que precisa ajustar a repressão
+Palavra complexa: branda
+Palavras candidatas BERT: dura	severa	que	
+Palavras candidatas Ranqueadas: dura	severa	que	
+Substituta: dura
+
+Frase 47 rankings: em março o comando de policiamento da capital cpc atingiu 40 do número previsto para fiscalização de veículos enquanto outros comandos regionais como metropolitano sul missões e vale do taquari superaram as metas estipuladas
+Palavra complexa: fiscalização
+Palavras candidatas BERT: trânsito	controle	segurança	
+Palavras candidatas Ranqueadas: trânsito	controle	segurança	
+Substituta: trânsito
+
+Frase 48 rankings: diferentemente de outros pleitos as legendas este ano são obrigadas a driblar novas regras eleitorais desgaste da imagem da classe política e projetos nacionais envolvendo líderes gaúchos
+Palavra complexa: pleitos
+Palavras candidatas BERT: [UNK]	que	–	
+Palavras candidatas Ranqueadas: que	
+Substituta: que
+
+Frase 49 rankings: a comissão entende que para que seja preservado o caráter de indenização cada parlamentar deve ter apenas um carro registrado
+Palavra complexa: parlamentar
+Palavras candidatas BERT: deputado	vereador	cidadão	
+Palavras candidatas Ranqueadas: deputado	cidadão	vereador	
+Substituta: deputado
+
+Frase 50 rankings: outra questão destacada no relatório se refere à qualificação dos servidores
+Palavra complexa: questão
+Palavras candidatas BERT: problema	preocupação	coisa	
+Palavras candidatas Ranqueadas: preocupação	problema	coisa	
+Substituta: questão
+
+Frase 51 rankings: duas situações foram detectadas pelo grupo
+Palavra complexa: grupo
+Palavras candidatas BERT: coletivo	bando	conjunto	
+Palavras candidatas Ranqueadas: bando	conjunto	
+Substituta: grupo
+
+Frase 52 rankings: há setores com carência de pessoal ou naqueles em que não faltam funcionários há pessoas atuando em uma função para a qual não têm qualificação
+Palavra complexa: funcionários
+Palavras candidatas BERT: pessoas	profissionais	qualificação	
+Palavras candidatas Ranqueadas: pessoas	profissionais	qualificação	
+Substituta: pessoas
+
+Frase 53 rankings: ontem antunes disse que a quantidade de contratos sob gerenciamento de um mesmo departamento como o caso do dsa pode ser revista
+Palavra complexa: revista
+Palavras candidatas BERT: [UNK]	mais	maior	
+Palavras candidatas Ranqueadas: mais	maior	
+Substituta: mais
+
+Frase 54 rankings: o começo deste verão é o mais abrasador dos últimos 11 anos no rio grande do sul
+Palavra complexa: abrasador
+Palavras candidatas BERT: quente	seco	úmido	
+Palavras candidatas Ranqueadas: quente	seco	
+Substituta: quente
+
+Frase 55 rankings: as médias de temperatura máxima oscilam entre 28° c e 34° c nas diferentes regiões do estado chegando a alcançar três graus acima dos padrões históricos
+Palavra complexa: oscilam
+Palavras candidatas BERT: variam	ficam	estão	
+Palavras candidatas Ranqueadas: ficam	estão	
+Substituta: ficam
+
+Frase 56 rankings: a inconsistência climática abre espaço para conjecturas sobre o papel do aquecimento global na atmosfera gaúcha
+Palavra complexa: conjecturas
+Palavras candidatas BERT: discussões	interpretações	dúvidas	
+Palavras candidatas Ranqueadas: discussões	dúvidas	
+Substituta: discussões
+
+Frase 57 rankings: a mudança progressiva pode influenciar indiretamente uma maior incidência de fenômenos como ondas de calor tempestades e secas
+Palavra complexa: progressiva
+Palavras candidatas BERT: gradual	rápida	contínua	
+Palavras candidatas Ranqueadas: rápida	contínua	
+Substituta: rápida
+
+Frase 58 rankings: os recursos tecnológicos devem ser revezados com leituras na viagem
+Palavra complexa: revezados
+Palavras candidatas BERT: usados	mantidos	utilizados	
+Palavras candidatas Ranqueadas: usados	mantidos	utilizados	
+Substituta: usados
+
+Frase 59 rankings: o próprio carro de simões tem o aparelho
+Palavra complexa: aparelho
+Palavras candidatas BERT: equipamento	celular	dispositivo	
+Palavras candidatas Ranqueadas: equipamento	celular	dispositivo	
+Substituta: equipamento
+
+Frase 60 rankings: até mesmo os dvds portáteis ou os consoles de mão como o nintendo ds e o playstation portable podem deixar as viagens menos maçantes para as crianças
+Palavra complexa: maçantes
+Palavras candidatas BERT: interessantes	importantes	interessante	
+Palavras candidatas Ranqueadas: interessantes	importantes	interessante	
+Substituta: interessantes
+
+Frase 61 rankings: o nevoeiro não se restringiu à capital
+Palavra complexa: restringiu
+Palavras candidatas BERT: estendeu	dirigiu	limita	
+Palavras candidatas Ranqueadas: limita	dirigiu	
+Substituta: limita
+
+Frase 62 rankings: quem trocou de sigla antes da data porém foi poupado
+Palavra complexa: sigla
+Palavras candidatas BERT: legenda	nome	marca	
+Palavras candidatas Ranqueadas: nome	legenda	marca	
+Substituta: nome
+
+Frase 63 rankings: apenas um dos parlamentares a deputada jusmari de oliveira que deixou o dem e ingressou no pr trocou de legenda após 27 de março
+Palavra complexa: legenda
+Palavras candidatas BERT: partido	sigla	partidos	
+Palavras candidatas Ranqueadas: partido	partidos	
+Substituta: partido
+
+Frase 64 rankings: amanhã pela manhã eles se encontrarão com o prefeito josé fogaça que prometeu apoio para a realização de obras de infraestrutura na área em que a arena será erguida
+Palavra complexa: erguida
+Palavras candidatas BERT: construída	mais	[UNK]	
+Palavras candidatas Ranqueadas: construída	mais	
+Substituta: construída
+
+Frase 65 rankings: o objetivo é constatar as condições das edificações e a higiene e segurança dos alunos para envio de laudo técnico aos órgãos oficiais recomendando providências se necessárias
+Palavra complexa: constatar
+Palavras candidatas BERT: verificar	identificar	observar	
+Palavras candidatas Ranqueadas: verificar	identificar	observar	
+Substituta: verificar
+
+Frase 66 rankings: desde o dia 24 de outubro a escola foi interditada pelo corpo de bombeiros e pela defesa civil
+Palavra complexa: interditada
+Palavras candidatas BERT: fechada	isolada	cercada	
+Palavras candidatas Ranqueadas: fechada	isolada	cercada	
+Substituta: fechada
+
+Frase 67 rankings: a órbita do planeta ficará alinhada com a da terra e a do sol mas não causará diminuição de luminosidade pois mercúrio tem apenas 38 do diâmetro terrestre
+Palavra complexa: luminosidade
+Palavras candidatas BERT: [UNK]	água	luz	
+Palavras candidatas Ranqueadas: água	luz	
+Substituta: água
+
+Frase 68 rankings: a prefeitura espera a resolução de problemas burocráticos para que o material para a reconstrução do monumento histórico chegue da europa
+Palavra complexa: resolução
+Palavras candidatas BERT: solução	solu	soluções	
+Palavras candidatas Ranqueadas: solução	soluções	
+Substituta: solução
+
+Frase 69 rankings: chávez citou um artigo da constituição venezuelana que assegura o controle estatal da atividade petrolífera mas não da extração de gás e acrescentou que ele deveria ser modificado para incluir todos os hidrocarbonetos sólidos líquidos ou gasosos
+Palavra complexa: assegura
+Palavras candidatas BERT: garante	garantia	garantir	
+Palavras candidatas Ranqueadas: garante	garantia	garantir	
+Substituta: garante
+
+Frase 70 rankings: duas famílias limitouse a dizer sussurrando para as monjas do outro lado da parede
+Palavra complexa: sussurrando
+Palavras candidatas BERT: não	sim	nada	
+Palavras candidatas Ranqueadas: sim	não	nada	
+Substituta: sim
+
+Frase 71 rankings: gaúcha de porto alegre tereza pinheiro 63 anos vende há 10 anos suvenires de frei galvão na porta do mosteiro
+Palavra complexa: suvenires
+Palavras candidatas BERT: Loja	loja	venda	
+Palavras candidatas Ranqueadas: loja	venda	
+Substituta: loja
+
+Frase 72 rankings: de olhos vendados três integrantes tiveram de percorrer em pedalinhos individuais um trecho do lago sob a orientação do apresentador e da matriarca da família
+Palavra complexa: matriarca
+Palavras candidatas BERT: mãe	integrante	amiga	
+Palavras candidatas Ranqueadas: mãe	amiga	
+Substituta: mãe
+
+Frase 73 rankings: o bolo tinha os ingredientes que compõem a dieta dos animais para deixar claro que o cardápio animal não se compõe de guloseimas apetitosas para os humanos como doces pipocas e outros quitutes
+Palavra complexa: apetitosas
+Palavras candidatas BERT: especiais	nem	boas	
+Palavras candidatas Ranqueadas: especiais	boas	nem	
+Substituta: especiais
+
+Frase 74 rankings: o bolo tinha os ingredientes que compõem a dieta dos animais para deixar claro que o cardápio animal não se compõe de guloseimas apetitosas para os humanos como doces pipocas e outros quitutes
+Palavra complexa: quitutes
+Palavras candidatas BERT: [UNK]	mais	que	
+Palavras candidatas Ranqueadas: mais	que	
+Substituta: mais
+
+Frase 75 rankings: alimentos inapropriados jogados em jaulas provocam problemas gastrointestinais e adoecem os bichos
+Palavra complexa: gastrointestinais
+Palavras candidatas BERT: alimentares	sociais	sérios	
+Palavras candidatas Ranqueadas: alimentares	sociais	sérios	
+Substituta: alimentares
+
+Frase 76 rankings: os dez dias entre o anonovo e o yom kipur são de arrependimento e reflexão
+Palavra complexa: reflexão
+Palavras candidatas BERT: oração	discussão	análise	
+Palavras candidatas Ranqueadas: discussão	oração	análise	
+Substituta: discussão
+
+Frase 77 rankings: outros cinco continuavam desaparecidos
+Palavra complexa: desaparecidos
+Palavras candidatas BERT: presos	mortos	vivos	
+Palavras candidatas Ranqueadas: presos	mortos	vivos	
+Substituta: presos
+
+Frase 78 rankings: o delegado seguiu entendimento de tribunais de justiça como o de são paulo de que a pichação deve ser enquadrada como dano ao patrimônio público previsto no código penal veja box
+Palavra complexa: enquadrada
+Palavras candidatas BERT: considerada	classificada	tratada	
+Palavras candidatas Ranqueadas: considerada	tratada	
+Substituta: considerada
+
+Frase 79 rankings: puniram com um rigor que não se vê em outros casos acredita
+Palavra complexa: rigor
+Palavras candidatas BERT: estilo	cuidado	vigor	
+Palavras candidatas Ranqueadas: cuidado	estilo	vigor	
+Substituta: cuidado
+
+Frase 80 rankings: a providência chegou um pouco tarde e a cidade continuou em ritmo letárgico por todo o dia
+Palavra complexa: letárgico
+Palavras candidatas BERT: lento	intenso	alegre	
+Palavras candidatas Ranqueadas: lento	intenso	alegre	
+Substituta: lento
+
+Frase 81 rankings: por trás da mortandade de jovens no trânsito como as seis vítimas registradas no estado ao longo do final de semana há um desafio para as campanhas de conscientização
+Palavra complexa: mortandade
+Palavras candidatas BERT: quantidade	perda	tragédia	
+Palavras candidatas Ranqueadas: quantidade	perda	tragédia	
+Substituta: quantidade
+
+Frase 82 rankings: uma pesquisa feita pelo ibope mês passado revela que nessa faixa etária os condutores reconhecem ser imprudentes
+Palavra complexa: etária
+Palavras candidatas BERT: idade	também	que	
+Palavras candidatas Ranqueadas: idade	também	que	
+Substituta: idade
+
+Frase 83 rankings: estratégias envolvem todos os escalões do governo
+Palavra complexa: escalões
+Palavras candidatas BERT: níveis	setores	órgãos	
+Palavras candidatas Ranqueadas: níveis	órgãos	
+Substituta: níveis
+
+Frase 84 rankings: a casa branca teria dado instruções à delegação americana em bali para evitar que o país seja responsabilizado pelo fracasso das negociações
+Palavra complexa: delegação
+Palavras candidatas BERT: embaixada	missão	representação	
+Palavras candidatas Ranqueadas: embaixada	missão	representação	
+Substituta: embaixada
+
+Frase 85 rankings: as estratégias já começaram a envolver os altos escalões dos governos
+Palavra complexa: escalões
+Palavras candidatas BERT: níveis	funcionários	executivos	
+Palavras candidatas Ranqueadas: níveis	funcionários	executivos	
+Substituta: níveis
+
+Frase 86 rankings: o expresidente chileno ricardo lagos circula nos corredores da conferência como emissário do secretáriogeral da onu ban kimoon tentando viabilizar um acordo
+Palavra complexa: emissário
+Palavras candidatas BERT: assistente	assessor	agente	
+Palavras candidatas Ranqueadas: assessor	assistente	agente	
+Substituta: assessor
+
+Frase 87 rankings: ao final da noite o secretário da conferência yvo de boer dando mostras de cansaço afirmou que nenhum país quer sair de bali com a marca indelével de ser o vilão da conferência
+Palavra complexa: indelével
+Palavras candidatas BERT: dura	perigosa	fatal	
+Palavras candidatas Ranqueadas: dura	fatal	perigosa	
+Substituta: dura
+
+Frase 88 rankings: a principal iniciativa restringe o acesso da população aos debates parlamentares
+Palavra complexa: restringe
+Palavras candidatas BERT: limita	impede	reduz	
+Palavras candidatas Ranqueadas: limita	impede	reduz	
+Substituta: limita
+
+Frase 89 rankings: o público comum ficará restrito à galeria superior com capacidade para 160 pessoas
+Palavra complexa: restrito
+Palavras candidatas BERT: limitado	reduzido	exposto	
+Palavras candidatas Ranqueadas: limitado	reduzido	exposto	
+Substituta: limitado
+
+Frase 90 rankings: para o líder da bancada do pt raul pont a decisão da mesa é precipitada
+Palavra complexa: precipitada
+Palavras candidatas BERT: decisiva	importante	necessária	
+Palavras candidatas Ranqueadas: decisiva	importante	necessária	
+Substituta: decisiva
+
+Frase 91 rankings: só espero que essa decisão de restrição parcial ao plenário seja provisória defendeu o líder da bancada do pc do b raul carrion
+Palavra complexa: restrição
+Palavras candidatas BERT: limitação	censura	bloqueio	
+Palavras candidatas Ranqueadas: censura	bloqueio	
+Substituta: censura
+
+Frase 92 rankings: a atitude dos professores também foi rechaçada do outro lado da praça da matriz
+Palavra complexa: rechaçada
+Palavras candidatas BERT: criticada	atacada	tomada	
+Palavras candidatas Ranqueadas: atacada	tomada	
+Substituta: atacada
+
+Frase 93 rankings: um acidente insólito matou o gaúcho augusto machado da câmara lima 26 anos quando ele desfrutava do feriadão nas praias catarinenses
+Palavra complexa: insólito
+Palavras candidatas BERT: fatal	grave	que	
+Palavras candidatas Ranqueadas: grave	fatal	que	
+Substituta: grave
+
+Frase 94 rankings: o país que fermentou a crise ainda é o maior comprador de produtos gaúchos veja quadro embora alguns segmentos tenham aprendido a reduzir a dependência
+Palavra complexa: fermentou
+Palavras candidatas BERT: [UNK]	mais	continua	
+Palavras candidatas Ranqueadas: mais	continua	
+Substituta: mais
+
+Frase 95 rankings: a transferência da feira infantil e juvenil para o cais do porto a instalação da área internacional na avenida sepúlveda entre a siqueira campos e a mauá e o local para autógrafos no largo entre o margs e o memorial não no centro da praça como em anos anteriores
+Palavra complexa: transferência
+Palavras candidatas BERT: [UNK]	instalação	mudança	
+Palavras candidatas Ranqueadas: mudança	instalação	
+Substituta: mudança
+
+Frase 96 rankings: o zoneamento representa o primeiro passo na formatação de uma política florestal no rio grande do sul
+Palavra complexa: formatação
+Palavras candidatas BERT: construção	criação	elaboração	
+Palavras candidatas Ranqueadas: construção	criação	
+Substituta: construção
+
+Frase 97 rankings: o zoneamento mostrará que procedimentos devem ser tomados em cada área explica
+Palavra complexa: procedimentos
+Palavras candidatas BERT: cuidados	passos	cuidado	
+Palavras candidatas Ranqueadas: cuidados	passos	cuidado	
+Substituta: cuidados
+
+Frase 98 rankings: tinha cerca de um metro e meio de altura a pedra que levou o presidente luiz inácio lula da silva ontem a um terreno terraplenado às margens da br285 em passo fundo
+Palavra complexa: terraplenado
+Palavras candidatas BERT: [UNK]	enterrado	localizado	
+Palavras candidatas Ranqueadas: enterrado	localizado	
+Substituta: enterrado
+
+Frase 99 rankings: para tornar a visita mais atraente para fotógrafos e cinegrafistas lula e o governador germano rigotto usando capacetes foram convidados a colocar pás de concreto da primeira fundação da indústria
+Palavra complexa: fundação
+Palavras candidatas BERT: fase	placa	casa	
+Palavras candidatas Ranqueadas: fase	casa	placa	
+Substituta: fase
+
+Frase 100 rankings: simpatizantes foram arregimentados
+Palavra complexa: arregimentados
+Palavras candidatas BERT: presos	identificados	encontrados	
+Palavras candidatas Ranqueadas: presos	identificados	encontrados	
+Substituta: presos
+
+Frase 101 rankings: o presidente foi recebido por uma platéia arregimentada por pt pc do b e psb partidos da base do governo
+Palavra complexa: arregimentada
+Palavras candidatas BERT: formada	composta	organizada	
+Palavras candidatas Ranqueadas: formada	organizada	composta	
+Substituta: formada
+
+Frase 102 rankings: a líder comunitária neli vidal birk 50 anos organizou um grupo de 36 pessoas beneficiadas pelo programa fome zero
+Palavra complexa: beneficiadas
+Palavras candidatas BERT: cobertas	responsáveis	envolvidas	
+Palavras candidatas Ranqueadas: responsáveis	cobertas	envolvidas	
+Substituta: responsáveis
+
+Frase 103 rankings: o pequeno príncipe original era melancólico com pontos de alegria
+Palavra complexa: melancólico
+Palavras candidatas BERT: alegre	triste	feliz	
+Palavras candidatas Ranqueadas: alegre	triste	feliz	
+Substituta: alegre
+
+Frase 104 rankings: o sol se põe no mar à esquerda ensombrecendo as montanhas do norte de israel à direita
+Palavra complexa: ensombrecendo
+Palavras candidatas BERT: formando	tocando	deixando	
+Palavras candidatas Ranqueadas: tocando	formando	deixando	
+Substituta: tocando
+
+Frase 105 rankings: a iniciativa nasceu na frança em 1998 em virtude da preocupação com a degradação do ambiente na área urbana
+Palavra complexa: degradação
+Palavras candidatas BERT: preservação	poluição	destruição	
+Palavras candidatas Ranqueadas: preservação	poluição	destruição	
+Substituta: preservação
+
+Frase 106 rankings: no brasil a primeira adesão ocorreu em 2001 com 11 cidades
+Palavra complexa: adesão
+Palavras candidatas BERT: associação	participação	integração	
+Palavras candidatas Ranqueadas: associação	participação	integração	
+Substituta: associação
+
+Frase 107 rankings: durante uma patrulha de rotina os soldados vilson soares urias e luis felipe milbrandt dutra identificaram um carro polo aberto e abandonado dentro do parque
+Palavra complexa: patrulha
+Palavras candidatas BERT: operação	revista	ação	
+Palavras candidatas Ranqueadas: operação	revista	
+Substituta: operação
+
+Frase 108 rankings: sem perceber o enxame apearam de seus cavalos para checar o veículo
+Palavra complexa: apearam
+Palavras candidatas BERT: saiu	dentro	sai	
+Palavras candidatas Ranqueadas: saiu	dentro	sai	
+Substituta: saiu
+
+Frase 109 rankings: denin foi amarrado numa árvore próxima à da colméia e em menos de um minuto estava coberto por abelhas de uma espécie miscigenada
+Palavra complexa: miscigenada
+Palavras candidatas BERT: [UNK]	que	mais	
+Palavras candidatas Ranqueadas: que	mais	
+Substituta: que
+
+Frase 110 rankings: segundo nosso técnico os eqüinos ficaram na linha de vôo das abelhas de entrada e saída da colméia
+Palavra complexa: eqüinos
+Palavras candidatas BERT: animais	cavalos	que	
+Palavras candidatas Ranqueadas: animais	cavalos	que	
+Substituta: animais
+
+Frase 111 rankings: segundo a campanha porém os reis magos são os legítimos representantes da magia do natal e não faltam críticas ao velho barrigudo
+Palavra complexa: legítimos
+Palavras candidatas BERT: verdadeiros	principais	reais	
+Palavras candidatas Ranqueadas: verdadeiros	principais	reais	
+Substituta: verdadeiros
+
+Frase 112 rankings: o homem bonachão dizem seus opositores segue o odor do dinheiro e explora seus duendes e os submete a situações de trabalho subumanas
+Palavra complexa: subumanas
+Palavras candidatas BERT: cruel	diárias	infantil	
+Palavras candidatas Ranqueadas: cruel	diárias	infantil	
+Substituta: cruel
+
+Frase 113 rankings: ao todo 140 mil itens foram inutilizados entre as 9h15 min e as 11h na travessa do carmo no pátio do depósito da smic
+Palavra complexa: itens
+Palavras candidatas BERT: alimentos	materiais	produtos	
+Palavras candidatas Ranqueadas: alimentos	materiais	produtos	
+Substituta: alimentos
+
+Frase 114 rankings: a b2w será capaz de competir com as principais empresas de varejo brasileiras em um mercado estimado em r 200 bilhões assinala o comunicado conjunto divulgado ontem pelas duas companhias
+Palavra complexa: estimado
+Palavras candidatas BERT: fechado	[UNK]	previsto	
+Palavras candidatas Ranqueadas: fechado	previsto	
+Substituta: fechado
+
+Frase 115 rankings: uma eventual resolução no conselho de segurança impondo sanções ao irã esbarra na oposição da rússia e da china dois membros permanentes do órgão e com direito a veto
+Palavra complexa: sanções
+Palavras candidatas BERT: [UNK]	respeito	fim	
+Palavras candidatas Ranqueadas: respeito	fim	
+Substituta: respeito
+
+Frase 116 rankings: ontem depois de participar de um encontro de governadores em fortaleza o ministro da fazenda guido mantega disse que até o início do próximo semestre o projeto de reforma tributária será encaminhado ao congresso nacional
+Palavra complexa: encaminhado
+Palavras candidatas BERT: enviado	apresentado	submetido	
+Palavras candidatas Ranqueadas: enviado	submetido	apresentado	
+Substituta: enviado
+
+Frase 117 rankings: eles reclamavam que não tinham a oportunidade de vir para o sul fazer o mesmo trabalho que já realizavam nas próprias cidades argumenta nunes
+Palavra complexa: argumenta
+Palavras candidatas BERT: reclama	justifica	conta	
+Palavras candidatas Ranqueadas: reclama	justifica	conta	
+Substituta: reclama
+
+Frase 118 rankings: neste ano ocorrerão quatro ações simultâneas
+Palavra complexa: simultâneas
+Palavras candidatas BERT: distintas	diferentes	paralelas	
+Palavras candidatas Ranqueadas: distintas	diferentes	paralelas	
+Substituta: distintas
+
+Frase 119 rankings: uma decisão da justiça federal do distrito federal devolveu as mordomias ao expresidente suspensas até o primeiro semestre deste ano por uma liminar
+Palavra complexa: mordomias
+Palavras candidatas BERT: vantagens	despesas	atividades	
+Palavras candidatas Ranqueadas: vantagens	despesas	
+Substituta: vantagens
+
+Frase 120 rankings: collor havia perdido os direitos a essas mordomias em razão de uma ação popular impetrada na justiça de brasília em 1993 sete meses depois do processo de impeachment que resultou na cassação dos direitos políticos do expresidente por oito anos
+Palavra complexa: mordomias
+Palavras candidatas BERT: ações	funções	atividades	
+Palavras candidatas Ranqueadas: funções	
+Substituta: funções
+
+Frase 121 rankings: o advogado de collor fernando neves da silva disse que o expresidente requereu que funcionários veículos e motoristas custeados com dotações da presidência sejam colocados a sua disposição
+Palavra complexa: requereu
+Palavras candidatas BERT: quer	pede	pediu	
+Palavras candidatas Ranqueadas: quer	pediu	pede	
+Substituta: quer
+
+Frase 122 rankings: a ação foi impetrada pelo exdeputado federal gaúcho waldomiro fioravante pt
+Palavra complexa: impetrada
+Palavras candidatas BERT: proposta	promovida	comandada	
+Palavras candidatas Ranqueadas: proposta	promovida	
+Substituta: proposta
+
+Frase 123 rankings: meirelles pede prudência e mantega vê só uma correção
+Palavra complexa: correção
+Palavras candidatas BERT: coisa	ação	mudança	
+Palavras candidatas Ranqueadas: coisa	mudança	
+Substituta: coisa
+
+Frase 124 rankings: é uma turbulência
+Palavra complexa: turbulência
+Palavras candidatas BERT: boa	delas	[UNK]	
+Palavras candidatas Ranqueadas: boa	delas	
+Substituta: boa
+
+Frase 125 rankings: é normal que o mercado tenha correções reagiu
+Palavra complexa: correções
+Palavras candidatas BERT: mudanças	ações	alterações	
+Palavras candidatas Ranqueadas: mudanças	alterações	
+Substituta: mudanças
+
+Frase 126 rankings: desconhecemos essa orientação acredito que houve um malentendido disse ontem o vicepresidente executivo do sindicom alísio vaz
+Palavra complexa: malentendido
+Palavras candidatas BERT: [UNK]	que	ano	
+Palavras candidatas Ranqueadas: que	ano	
+Substituta: que
+
+Frase 127 rankings: rapidamente controlado pela brigada militar o conflito envolvendo quatro apenados tornouse mais um na lista de incidentes do local construído em 1977
+Palavra complexa: apenados
+Palavras candidatas BERT: presos	pessoas	adolescentes	
+Palavras candidatas Ranqueadas: presos	pessoas	adolescentes	
+Substituta: presos
+
+Frase 128 rankings: entre as 69 propostas de mudanças na constituição chávez vai da reeleição sem limites ao fim da autonomia do banco central do direito a expropriar propriedades privadas à subordinação de governantes a militares nomeados por ele
+Palavra complexa: subordinação
+Palavras candidatas BERT: dependência	disposição	associação	
+Palavras candidatas Ranqueadas: disposição	dependência	associação	
+Substituta: disposição
+
+Frase 129 rankings: liberadas pelo tribunal britânico que analisa o caso as fotos mostram a princesa dentro do mercedesbenz em que morreu momentos antes da colisão no túnel dalma em paris
+Palavra complexa: colisão
+Palavras candidatas BERT: luz	[UNK]	batida	
+Palavras candidatas Ranqueadas: luz	batida	
+Substituta: luz
+
+Frase 130 rankings: nos últimos dias a notificação de casos de psitacose doença provocada por vírus transmitido pelas caturritas colocou as autoridades em alerta no estado
+Palavra complexa: notificação
+Palavras candidatas BERT: confirmação	divulgação	investigação	
+Palavras candidatas Ranqueadas: confirmação	divulgação	investigação	
+Substituta: confirmação
+
+Frase 131 rankings: e basta uma pequena assimetria entre eles para que o sistema automático se desarme e o avião volte para o modo manual
+Palavra complexa: assimetria
+Palavras candidatas BERT: diferença	separação	desigualdade	
+Palavras candidatas Ranqueadas: diferença	separação	
+Substituta: diferença
+
+Frase 132 rankings: fundado em 1977 o parque na rs020 em gravataí é a concretização de um sonho do empresário lauro febernati morto em 2005 que quando criança planejava um dia morar na áfrica
+Palavra complexa: concretização
+Palavras candidatas BERT: realização	realidade	projeção	
+Palavras candidatas Ranqueadas: realização	realidade	
+Substituta: realização
+
+Frase 133 rankings: no entanto há restrições
+Palavra complexa: restrições
+Palavras candidatas BERT: limitações	limites	regras	
+Palavras candidatas Ranqueadas: limitações	limites	regras	
+Substituta: limitações
+
+Frase 134 rankings: diante do fracasso de projetos como o da elétrica jacuí eleja envolvida no escândalo das usinas que redundou até em prisões as dúvidas sobre o potencial da geração térmica a carvão no estado persistem
+Palavra complexa: persistem
+Palavras candidatas BERT: [UNK]	–	mais	
+Palavras candidatas Ranqueadas: mais	
+Substituta: mais
+
+Frase 135 rankings: os nascimentos de bebês despencaram a partir da década de 70 imobilizando a taxa de fecundidade no velho continente hoje em 152 filho por família
+Palavra complexa: despencaram
+Palavras candidatas BERT: caíram	aumentaram	começaram	
+Palavras candidatas Ranqueadas: caíram	aumentaram	começaram	
+Substituta: caíram
+
+Frase 136 rankings: governos se afligem com o silêncio nos berçários
+Palavra complexa: afligem
+Palavras candidatas BERT: preocupa	ocupam	envolvem	
+Palavras candidatas Ranqueadas: preocupa	envolvem	ocupam	
+Substituta: preocupa
+
+Frase 137 rankings: somadas as indústrias do rio grande do sul teriam capacidade para atender a quase metade do abastecimento nacional previsto para 2008 de 840 milhões de litros
+Palavra complexa: abastecimento
+Palavras candidatas BERT: consumo	fornecimento	mercado	
+Palavras candidatas Ranqueadas: consumo	mercado	fornecimento	
+Substituta: consumo
+
+Frase 138 rankings: considerada um dos grandes testes para a adoção do biodiesel no brasil a transformação de capacidade instalada em produção efetiva deve ditar a rapidez da evolução da mistura dos 2 iniciais para uma proporção maior
+Palavra complexa: efetiva
+Palavras candidatas BERT: [UNK]	que	vai	
+Palavras candidatas Ranqueadas: que	vai	
+Substituta: que
+
+Frase 139 rankings: esse acréscimo já tem a chancela da associação nacional dos fabricantes de veículos automotores
+Palavra complexa: chancela
+Palavras candidatas BERT: aprovação	marca	participação	
+Palavras candidatas Ranqueadas: aprovação	marca	participação	
+Substituta: aprovação
+
+Frase 140 rankings: a medida está em análise porque existe capacidade para 25 bilhões de litros três vezes mais do que o necessário para atender ao abastecimento da nova mistura do combustível chamado de b2
+Palavra complexa: abastecimento
+Palavras candidatas BERT: fornecimento	consumo	atendimento	
+Palavras candidatas Ranqueadas: fornecimento	consumo	atendimento	
+Substituta: fornecimento
+
+Frase 141 rankings: ontem ainda havia controvérsias sobre o tipo de exigência que seria feita no varejo
+Palavra complexa: controvérsias
+Palavras candidatas BERT: dúvidas	divergências	polêmica	
+Palavras candidatas Ranqueadas: dúvidas	divergências	
+Substituta: dúvidas
+
+Frase 142 rankings: quem não conseguir esgotar o armazenamento de diesel puro não pode misturar com o b2 porque o produto ficaria fora de especificação
+Palavra complexa: armazenamento
+Palavras candidatas BERT: depósito	volume	reserva	
+Palavras candidatas Ranqueadas: depósito	volume	reserva	
+Substituta: depósito
+
+Frase 143 rankings: aos poucos no entanto a determinação foi sendo flexibilizada no diaadia o que ocasionou o agravamento da situação
+Palavra complexa: determinação
+Palavras candidatas BERT: medida	decisão	lei	
+Palavras candidatas Ranqueadas: medida	decisão	lei	
+Substituta: medida
+
+Frase 144 rankings: alarmado o diretor do fórum e juiz da 3ª vara criminal de passo fundo giuliano viero giuliato ordenou há cerca de duas semanas que presos com condenação definitiva sejam levados para outras instituições penais do estado
+Palavra complexa: alarmado
+Palavras candidatas BERT: com	[UNK]	Veja	
+Palavras candidatas Ranqueadas: com	
+Substituta: com
+
+Frase 145 rankings: 580 quando o número de presos no local atingir esses três dígitos será totalmente proibido o ingresso de novos apenados
+Palavra complexa: apenados
+Palavras candidatas BERT: presos	[UNK]	condenados	
+Palavras candidatas Ranqueadas: presos	condenados	
+Substituta: presos
+
+Frase 146 rankings: havia um fiat doblò estacionado em frente a uma panificadora
+Palavra complexa: panificadora
+Palavras candidatas BERT: loja	pad	empresa	
+Palavras candidatas Ranqueadas: loja	empresa	
+Substituta: loja
+
+Frase 147 rankings: ele afirmou ainda que o carro trafegava dentro da velocidade máxima permitida 60 km h
+Palavra complexa: trafegava
+Palavras candidatas BERT: estava	seguia	vinha	
+Palavras candidatas Ranqueadas: estava	seguia	vinha	
+Substituta: estava
+
+Frase 148 rankings: testemunhas contrariam esta versão
+Palavra complexa: contrariam
+Palavras candidatas BERT: defendem	seguem	recusaram	
+Palavras candidatas Ranqueadas: defendem	seguem	recusaram	
+Substituta: defendem
+
+Frase 149 rankings: eliane beatriz guth que trabalha na panificadora disse que não havia nenhum veículo estacionado em frente ao estabelecimento
+Palavra complexa: panificadora
+Palavras candidatas BERT: cozinha	empresa	loja	
+Palavras candidatas Ranqueadas: loja	empresa	cozinha	
+Substituta: loja
+
+Frase 150 rankings: mas sim o embrião de um movimento de perpetuação no poder que ameaça se alastrar pela américa latina
+Palavra complexa: alastrar
+Palavras candidatas BERT: expandir	estender	instalar	
+Palavras candidatas Ranqueadas: expandir	estender	instalar	
+Substituta: expandir
+
+Frase 151 rankings: há quem continue inabalável na defesa do presidente
+Palavra complexa: inabalável
+Palavras candidatas BERT: firme	forte	consistente	
+Palavras candidatas Ranqueadas: firme	forte	consistente	
+Substituta: firme
+
+Frase 152 rankings: a novidade é a crescente parcela da população que tem questionado se vale a pena dar mais esse crédito ao tenentecoronel um rebelde cujo golpe fracassado em 1992 lhe rendeu dois anos de cadeia e notoriedade suficiente para vencer três eleições presidenciais
+Palavra complexa: fracassado
+Palavras candidatas BERT: iniciado	feito	ocorrido	
+Palavras candidatas Ranqueadas: iniciado	feito	ocorrido	
+Substituta: fracassado
+
+Frase 153 rankings: a maioria dos descontentes são antigos adesistas mas que agora não compram mais no escuro a versão de chávez de que os problemas nacionais da falta de comida à insegurança decorrem de um boicote de empresários e da elite local a oligarquia sempre demonizada por chávez
+Palavra complexa: decorrem
+Palavras candidatas BERT: resulta	vem	depende	
+Palavras candidatas Ranqueadas: vem	resulta	depende	
+Substituta: vem
+
+Frase 154 rankings: no dia seguinte chávez reuniu uma multidão ainda maior e em um discurso inflamado ameaçou a oposição a imprensa estrangeira a colômbia os estados unidos a espanha e os bancos espanhóis sediados no país
+Palavra complexa: inflamado
+Palavras candidatas BERT: que	[UNK]	vai	
+Palavras candidatas Ranqueadas: que	vai	
+Substituta: que
+
+Frase 155 rankings: entre as 69 propostas de mudanças na constituição chávez vai da reeleição sem limites ao fim da autonomia do banco central do direito a expropriar propriedades privadas à subordinação de governantes a militares nomeados por ele
+Palavra complexa: expropriar
+Palavras candidatas BERT: administrar	construir	criar	
+Palavras candidatas Ranqueadas: administrar	construir	criar	
+Substituta: administrar
+
+Frase 156 rankings: há também medidas populares como a redução da jornada de trabalho para 36 horas semanais e uma ampliação da cobertura previdenciária
+Palavra complexa: ampliação
+Palavras candidatas BERT: expansão	extensão	elevação	
+Palavras candidatas Ranqueadas: expansão	extensão	elevação	
+Substituta: expansão
+
+Frase 157 rankings: o referendo ocorre em meio a uma grande descrença da população da venezuela nas instituições e nos partidos políticos
+Palavra complexa: descrença
+Palavras candidatas BERT: confiança	crença	fé	
+Palavras candidatas Ranqueadas: confiança	crença	fé	
+Substituta: confiança
+
+Frase 158 rankings: chávez quer expandir sua revolução bolivariana que hoje já tem como adeptos o equador e a bolívia esta última mergulhada em uma crise semelhante à venezuelana
+Palavra complexa: expandir
+Palavras candidatas BERT: ampliar	aumentar	fortalecer	
+Palavras candidatas Ranqueadas: ampliar	aumentar	fortalecer	
+Substituta: expandir
+
+Frase 159 rankings: em uma das fotos mostradas no julgamento diana está no banco traseiro do veículo e olha para trás aparentemente para ver se o motorista havia despistado os paparazzi
+Palavra complexa: aparentemente
+Palavras candidatas BERT: [UNK]	vai	mais	
+Palavras candidatas Ranqueadas: vai	mais	
+Substituta: vai
+
+Frase 160 rankings: em uma das fotos mostradas no julgamento diana está no banco traseiro do veículo e olha para trás aparentemente para ver se o motorista havia despistado os paparazzi
+Palavra complexa: despistado
+Palavras candidatas BERT: reservado	com	visto	
+Palavras candidatas Ranqueadas: visto	reservado	com	
+Substituta: visto
+
+Frase 161 rankings: duas investigações anteriores uma da polícia francesa e outra da britânica atribuíram o acidente ao fato de o motorista henri paul estar alcoolizado e dirigindo em alta velocidade
+Palavra complexa: alcoolizado
+Palavras candidatas BERT: sozinho	dirigindo	consciente	
+Palavras candidatas Ranqueadas: sozinho	dirigindo	consciente	
+Substituta: sozinho
+
+Frase 162 rankings: não são de ontem esses problemas temos de monitorar constantemente observa gilmara
+Palavra complexa: constantemente
+Palavras candidatas BERT: [UNK]	sempre	muito	
+Palavras candidatas Ranqueadas: sempre	muito	
+Substituta: sempre
+
+Frase 163 rankings: proprietária quer se desfazer dos bichos
+Palavra complexa: proprietária
+Palavras candidatas BERT: Dona	dona	mãe	
+Palavras candidatas Ranqueadas: dona	mãe	
+Substituta: dona
+
+Frase 164 rankings: no uruguai não é proibido comercializar nem comprar as aves
+Palavra complexa: comercializar
+Palavras candidatas BERT: vender	produzir	matar	
+Palavras candidatas Ranqueadas: vender	matar	produzir	
+Substituta: vender
+
+Frase 165 rankings: uma expedição que começa na próxima sextafeira pretende romper pela primeira vez a crosta terrestre
+Palavra complexa: expedição
+Palavras candidatas BERT: missão	jornada	viagem	
+Palavras candidatas Ranqueadas: viagem	missão	jornada	
+Substituta: viagem
+
+Frase 166 rankings: no trabalho será utilizado o mais sofisticado navio científico da atualidade
+Palavra complexa: sofisticado
+Palavras candidatas BERT: moderno	avançado	elaborado	
+Palavras candidatas Ranqueadas: moderno	avançado	elaborado	
+Substituta: moderno
+
+Frase 167 rankings: o sistema é protegido por um segundo tubo cheio de lama que envolve a perfuratriz reduzindo atritos e removendo os detritos
+Palavra complexa: detritos
+Palavras candidatas BERT: [UNK]	–	mais	
+Palavras candidatas Ranqueadas: mais	
+Substituta: mais
+
+Frase 168 rankings: assim a semana mais turbulenta do ano fechou em recuperação para os investidores
+Palavra complexa: turbulenta
+Palavras candidatas BERT: difícil	fria	quente	
+Palavras candidatas Ranqueadas: difícil	fria	quente	
+Substituta: difícil
+
+Frase 169 rankings: preocupados com a repercussão da crise itaú bradesco e unibanco divulgaram nota afirmando que não trabalham com esse segmento de crédito norteamericano
+Palavra complexa: segmento
+Palavras candidatas BERT: ramo	mercado	tipo	
+Palavras candidatas Ranqueadas: ramo	mercado	tipo	
+Substituta: ramo
+
+Frase 170 rankings: instituições financeiras nacionais notaram que há precaução dos investidores contra possíveis surpresas no final de semana
+Palavra complexa: precaução
+Palavras candidatas BERT: proteção	orientação	atenção	
+Palavras candidatas Ranqueadas: orientação	atenção	
+Substituta: orientação
+
+Frase 171 rankings: essa decisão não altera a taxa básica de juro de curto prazo que tem impacto mais direto sobre os juros que as instituições financeiras cobram de seus clientes
+Palavra complexa: impacto
+Palavras candidatas BERT: efeito	reflexo	peso	
+Palavras candidatas Ranqueadas: efeito	reflexo	peso	
+Substituta: efeito
+
+Frase 172 rankings: passou a não se preocupar apenas em frear a inflação mas também em manter o ritmo de crescimento econômico
+Palavra complexa: frear
+Palavras candidatas BERT: conter	combater	controlar	
+Palavras candidatas Ranqueadas: controlar	conter	combater	
+Substituta: controlar
+
+Frase 173 rankings: as condições dos mercados financeiros pioraram e as condições mais restritas do crédito e a maior incerteza poderiam impedir a continuidade do crescimento econômico informou o comunicado do comitê de mercado aberto
+Palavra complexa: restritas
+Palavras candidatas BERT: difíceis	profundas	sensíveis	
+Palavras candidatas Ranqueadas: difíceis	profundas	sensíveis	
+Substituta: difíceis
+
+Frase 174 rankings: percurso previsto vai do bairro barreiros em são josé à ufsc
+Palavra complexa: percurso
+Palavras candidatas BERT: trajeto	Caminho	Processo	
+Palavras candidatas Ranqueadas: percurso	
+Substituta: percurso
+
+Frase 175 rankings: o edital de licitação do metrô de superfície a ser aberto sextafeira é integrado pelo projeto da obra o estudo de viabilidade econômica e avaliações de impacto ambiental
+Palavra complexa: integrado
+Palavras candidatas BERT: responsável	mais	[UNK]	
+Palavras candidatas Ranqueadas: responsável	mais	
+Substituta: responsável
+
+Frase 176 rankings: em 13 anos esse número pode chegar a 230 mil e tornará a circulação na cidade inviável acredita o presidente do conselho regional de engenharia e arquitetura em santa catarina raul zucatto
+Palavra complexa: inviável
+Palavras candidatas BERT: [UNK]	–	como	
+Palavras candidatas Ranqueadas: como	
+Substituta: como
+
+Frase 177 rankings: sem iniciativas conjuntas porém garante ser impossível que o metrô de superfície solucione o problema
+Palavra complexa: solucione
+Palavras candidatas BERT: resolver	resolve	supra	
+Palavras candidatas Ranqueadas: resolver	resolve	
+Substituta: resolver
+
+Frase 178 rankings: em alguns casos as pastorais e dioceses coordenam o rodízio das imagens enquanto em outros as comunidades se organizam
+Palavra complexa: coordenam
+Palavras candidatas BERT: fazem	realizam	mantêm	
+Palavras candidatas Ranqueadas: fazem	realizam	mantêm	
+Substituta: fazem
+
+Frase 179 rankings: em alguns casos as pastorais e dioceses coordenam o rodízio das imagens enquanto em outros as comunidades se organizam
+Palavra complexa: rodízio
+Palavras candidatas BERT: uso	acompanhamento	culto	
+Palavras candidatas Ranqueadas: uso	acompanhamento	culto	
+Substituta: uso
+
+Frase 180 rankings: a devoção também encontra adeptos nos centros urbanos
+Palavra complexa: adeptos
+Palavras candidatas BERT: seguidores	praticantes	defensores	
+Palavras candidatas Ranqueadas: seguidores	defensores	
+Substituta: seguidores
+
+Frase 181 rankings: foi um padre de casca que introduziu o rodízio da santinha para aumentar a fé e fazer com que nós conhecêssemos e freqüentássemos mais as casas dos outros lembra a agricultora que mora na localidade de montes cárpatos
+Palavra complexa: rodízio
+Palavras candidatas BERT: [UNK]	filme	projeto	
+Palavras candidatas Ranqueadas: filme	
+Substituta: filme
+
+Frase 182 rankings: aos poucos recupera a forma depois de mais de um mês e meio fora do futebol por causa de contusão muscular na coxa direita
+Palavra complexa: contusão
+Palavras candidatas BERT: lesão	problema	dor	
+Palavras candidatas Ranqueadas: lesão	problema	dor	
+Substituta: lesão
+
+Frase 183 rankings: isso porque a boeing utiliza um conceito que torna a operação de um avião mais simples e menos propícia a erros do piloto ou a mau funcionamento da aeronave
+Palavra complexa: propícia
+Palavras candidatas BERT: sujeita	[UNK]	sensível	
+Palavras candidatas Ranqueadas: sensível	sujeita	
+Substituta: sensível
+
+Frase 184 rankings: mas criouse um paradoxo
+Palavra complexa: paradoxo
+Palavras candidatas BERT: problema	mito	mistério	
+Palavras candidatas Ranqueadas: problema	mito	mistério	
+Substituta: problema
+
+Frase 185 rankings: o melhor exemplo são os manetes de controle dos motores e de acionamento do reverso o dispositivo que inverte o fluxo de ar nas turbinas e ajuda o avião a parar
+Palavra complexa: dispositivo
+Palavras candidatas BERT: aparelho	sistema	equipamento	
+Palavras candidatas Ranqueadas: sistema	aparelho	equipamento	
+Substituta: sistema
+
+Frase 186 rankings: segundo gravações da caixapreta do a320 da tam um dos manetes correspondente ao motor direito que estava com o reverso travado teria ficado na posição de aceleração
+Palavra complexa: travado
+Palavras candidatas BERT: não	que	também	
+Palavras candidatas Ranqueadas: que	não	também	
+Substituta: que
+
+Frase 187 rankings: inácio publicou em 2001 deca e zé perri livro em edição bilíngüe portuguêsfrancês no qual ele registra os relatos do pai sobre as andanças do escritor pela ilha de santa catarina
+Palavra complexa: andanças
+Palavras candidatas BERT: viagens	aventuras	passagens	
+Palavras candidatas Ranqueadas: viagens	aventuras	passagens	
+Substituta: viagens
+
+Frase 188 rankings: em reunião da mesa diretora ontem senadores argumentaram que o ideal seria acabar com a verba indenizatória de r 15 mil mensais que todos os parlamentares recebem e equiparar os salários fixados atualmente em r 166 mil aos r 245 mil dos ministros do supremo tribunal federal stf que é o teto do funcionalismo público
+Palavra complexa: parlamentares
+Palavras candidatas BERT: [UNK]	que	deputados	
+Palavras candidatas Ranqueadas: que	deputados	
+Substituta: que
+
+Frase 189 rankings: em reunião da mesa diretora ontem senadores argumentaram que o ideal seria acabar com a verba indenizatória de r 15 mil mensais que todos os parlamentares recebem e equiparar os salários fixados atualmente em r 166 mil aos r 245 mil dos ministros do supremo tribunal federal stf que é o teto do funcionalismo público
+Palavra complexa: equiparar
+Palavras candidatas BERT: [UNK]	com	mais	
+Palavras candidatas Ranqueadas: com	mais	
+Substituta: com
+
+Frase 190 rankings: a verba indenizatória foi criada para custear despesas dos parlamentares com seus mandatos nos estados
+Palavra complexa: custear
+Palavras candidatas BERT: cobrir	financiar	pagar	
+Palavras candidatas Ranqueadas: cobrir	pagar	financiar	
+Substituta: cobrir
+
+Frase 191 rankings: a verba indenizatória foi criada para custear despesas dos parlamentares com seus mandatos nos estados
+Palavra complexa: parlamentares
+Palavras candidatas BERT: deputados	senadores	políticos	
+Palavras candidatas Ranqueadas: deputados	senadores	políticos	
+Substituta: deputados
+
+Frase 192 rankings: para viana este é um passo importante para dar mais transparência ao legislativo
+Palavra complexa: transparência
+Palavras candidatas BERT: eficiência	visibilidade	segurança	
+Palavras candidatas Ranqueadas: eficiência	visibilidade	segurança	
+Substituta: eficiência
+
+Frase 193 rankings: a mesa também discutiu a possibilidade de criar uma sala reservada dentro do cafezinho do senado porque os parlamentares têm reclamado da falta de privacidade no seu tradicional ponto de encontro que agora está restrito aos senadores
+Palavra complexa: restrito
+Palavras candidatas BERT: fechado	aberto	limitado	
+Palavras candidatas Ranqueadas: fechado	aberto	limitado	
+Substituta: fechado
+
+Frase 194 rankings: após vários adiamentos o julgamento do mérito da questão foi postergado novamente agora para fevereiro
+Palavra complexa: postergado
+Palavras candidatas BERT: adiado	suspenso	marcado	
+Palavras candidatas Ranqueadas: adiado	marcado	suspenso	
+Substituta: adiado
+
+Frase 195 rankings: veste terno azul e gravata corderosa impecáveis mas chega com um andar desengonçado
+Palavra complexa: impecáveis
+Palavras candidatas BERT: brilhante	elegante	perfeita	
+Palavras candidatas Ranqueadas: brilhante	elegante	perfeita	
+Substituta: brilhante
+
+Frase 196 rankings: veste terno azul e gravata corderosa impecáveis mas chega com um andar desengonçado
+Palavra complexa: desengonçado
+Palavras candidatas BERT: estranho	normal	diferente	
+Palavras candidatas Ranqueadas: estranho	diferente	normal	
+Substituta: estranho
+
+Frase 197 rankings: mas são celebridades como kerry que protagonizam as mais concorridas coletivas de imprensa
+Palavra complexa: protagonizam
+Palavras candidatas BERT: fazem	realizam	participam	
+Palavras candidatas Ranqueadas: fazem	realizam	
+Substituta: fazem
+
+Frase 198 rankings: quando havia o bar as bobagens eram sempre mais atrativas conta a mãe a dona de casa eliane gonçalves
+Palavra complexa: bobagens
+Palavras candidatas BERT: coisas	pessoas	piadas	
+Palavras candidatas Ranqueadas: coisas	pessoas	piadas	
+Substituta: coisas
+
+Frase 199 rankings: os brasileiros marcaram 370 pontos em matemática 14 a mais do que na sondagem de 2003
+Palavra complexa: sondagem
+Palavras candidatas BERT: pesquisa	estimativa	edição	
+Palavras candidatas Ranqueadas: pesquisa	edição	estimativa	
+Substituta: pesquisa
+
+Frase 200 rankings: o avanço em matemática teve como contrapartida um forte declínio no desempenho em leitura
+Palavra complexa: declínio
+Palavras candidatas BERT: queda	crescimento	rebaixamento	
+Palavras candidatas Ranqueadas: queda	crescimento	
+Substituta: queda
+
+Frase 201 rankings: isso serviu de estopim para a concorrência de preços
+Palavra complexa: concorrência
+Palavras candidatas BERT: competição	disputa	briga	
+Palavras candidatas Ranqueadas: competição	disputa	briga	
+Substituta: competição
+
+Frase 202 rankings: aos sete meses o macacoaranha não é o único que precisa de atenção redobrada durante o inverno
+Palavra complexa: redobrada
+Palavras candidatas BERT: especial	total	constante	
+Palavras candidatas Ranqueadas: especial	total	constante	
+Substituta: especial
+
+Frase 203 rankings: por volta das 16h30 min a calefação volta a ser ligada
+Palavra complexa: calefação
+Palavras candidatas BERT: luz	iluminação	água	
+Palavras candidatas Ranqueadas: luz	água	iluminação	
+Substituta: luz
+
+Frase 204 rankings: o lar do pontífice em são paulo consiste de três salas contíguas no primeiro andar do mosteiro cada uma com uma janela dando para os jardins do claustro
+Palavra complexa: contíguas
+Palavras candidatas BERT: paralelas	localizadas	situadas	
+Palavras candidatas Ranqueadas: paralelas	
+Substituta: paralelas
+
+Frase 205 rankings: a sala contém ainda uma poltrona com uma luminária de leitura ao lado escrivaninha uma cadeira e arcondicionado
+Palavra complexa: escrivaninha
+Palavras candidatas BERT: com	parede	mesa	
+Palavras candidatas Ranqueadas: com	parede	mesa	
+Substituta: com
+
+Frase 206 rankings: o toque de requinte a esses aposentos austeros é conferido por flores
+Palavra complexa: requinte
+Palavras candidatas BERT: luxo	classe	nobreza	
+Palavras candidatas Ranqueadas: luxo	classe	nobreza	
+Substituta: luxo
+
+Frase 207 rankings: o toque de requinte a esses aposentos austeros é conferido por flores
+Palavra complexa: conferido
+Palavras candidatas BERT: dado	acompanhado	visto	
+Palavras candidatas Ranqueadas: dado	visto	acompanhado	
+Substituta: dado
+
+Frase 208 rankings: a menos de 24 horas da chegada de bento xvi militares fardados subiam e desciam escadas de mármore e agentes federais faziam as últimas revistas nos aposentos que abrigarão o visitante ilustre
+Palavra complexa: ilustre
+Palavras candidatas BERT: [UNK]	mais	s	
+Palavras candidatas Ranqueadas: mais	
+Substituta: mais
+
+Frase 209 rankings: no momento crucial da história da varig os desentendimentos internos que se tornaram marca registrada da empresa viraram passado pelo menos por um momento
+Palavra complexa: crucial
+Palavras candidatas BERT: decisivo	fundamental	essencial	
+Palavras candidatas Ranqueadas: decisivo	fundamental	essencial	
+Substituta: crucial
+
+Frase 210 rankings: a expectativa é de que a nova companhia adote uma gestão moderna com folha de salários mais enxuta para vencer a crise em que se envolveu com dívidas beirando r 9 bilhões
+Palavra complexa: gestão
+Palavras candidatas BERT: estratégia	administração	visão	
+Palavras candidatas Ranqueadas: administração	estratégia	visão	
+Substituta: administração
+
+Frase 211 rankings: diversidade e clima descontraído foram as marcas do primeiro dia do 8º fórum internacional software livre fisl que prossegue até amanhã no centro de exposições da federação das indústrias do estado
+Palavra complexa: diversidade
+Palavras candidatas BERT: [UNK]	–	Educação	
+Palavras candidatas Ranqueadas: diversidade	
+Substituta: diversidade
+
+Frase 212 rankings: diversidade e clima descontraído foram as marcas do primeiro dia do 8º fórum internacional software livre fisl que prossegue até amanhã no centro de exposições da federação das indústrias do estado
+Palavra complexa: descontraído
+Palavras candidatas BERT: essas	musical	também	
+Palavras candidatas Ranqueadas: também	musical	essas	
+Substituta: também
+
+Frase 213 rankings: mais de 200 palestras integram a programação muitas destinadas a usuários leigos em informática
+Palavra complexa: leigos
+Palavras candidatas BERT: interessados	especializados	especialistas	
+Palavras candidatas Ranqueadas: interessados	especialistas	
+Substituta: interessados
+
+Frase 214 rankings: além de encontrar o pessoal do software livre com quem a gente está sempre em contato vim para ver algumas palestras e me atualizar em novas tendências debatidas aqui
+Palavra complexa: debatidas
+Palavras candidatas BERT: [UNK]	aqui	mais	
+Palavras candidatas Ranqueadas: aqui	mais	
+Substituta: aqui
+
+Frase 215 rankings: o fórum retrata a diversidade da comunidade de software livre onde todos os grupos projetos e iniciativas têm espaço
+Palavra complexa: diversidade
+Palavras candidatas BERT: variedade	plural	união	
+Palavras candidatas Ranqueadas: variedade	união	plural	
+Substituta: variedade
+
+Frase 216 rankings: acessório símbolo do aviador foi furtado há cerca de um ano
+Palavra complexa: acessório
+Palavras candidatas BERT: O	[UNK]	objeto	
+Palavras candidatas Ranqueadas: acessório	
+Substituta: acessório
+
+Frase 217 rankings: calma freqüentador do parque da redenção o busto de santosdumont não foi furtado
+Palavra complexa: busto
+Palavras candidatas BERT: corpo	[UNK]	monumento	
+Palavras candidatas Ranqueadas: corpo	monumento	
+Substituta: corpo
+
+Frase 218 rankings: calma freqüentador do parque da redenção o busto de santosdumont não foi furtado
+Palavra complexa: furtado
+Palavras candidatas BERT: encontrado	recuperado	localizado	
+Palavras candidatas Ranqueadas: encontrado	recuperado	localizado	
+Substituta: encontrado
+
+Frase 219 rankings: funcionários da secretaria municipal do meio ambiente smam levaram cerca de uma hora para tirar a estátua de seu pedestal na manhã de ontem
+Palavra complexa: pedestal
+Palavras candidatas BERT: lugar	jardim	monumento	
+Palavras candidatas Ranqueadas: lugar	monumento	jardim	
+Substituta: lugar
+
+Frase 220 rankings: foram utilizados marreta martelo e talhadeira para levantar os quatro pinos que prendiam o busto à base de cimento
+Palavra complexa: busto
+Palavras candidatas BERT: corpo	objeto	monumento	
+Palavras candidatas Ranqueadas: corpo	monumento	
+Substituta: corpo
+
+Frase 221 rankings: seis parlamentares brasileiros irão ao evento
+Palavra complexa: parlamentares
+Palavras candidatas BERT: senadores	deputados	representantes	
+Palavras candidatas Ranqueadas: senadores	representantes	deputados	
+Substituta: senadores
+
+Frase 222 rankings: o deputado federal tarcísio zimmermann pt presidente no brasil da rede parlamentar mundial é um dos seis parlamentares brasileiros e único gaúcho com presença confirmada no evento
+Palavra complexa: parlamentares
+Palavras candidatas BERT: deputados	senadores	[UNK]	
+Palavras candidatas Ranqueadas: deputados	senadores	
+Substituta: deputados
+
+Frase 223 rankings: a capital vivencia um fenômeno contraditório
+Palavra complexa: contraditório
+Palavras candidatas BERT: diferente	único	oposto	
+Palavras candidatas Ranqueadas: diferente	único	oposto	
+Substituta: diferente
+
+Frase 224 rankings: os resultados são percebidos em redutos tradicionais da classe média como cidade baixa e menino deus
+Palavra complexa: redutos
+Palavras candidatas BERT: bairros	locais	territórios	
+Palavras candidatas Ranqueadas: bairros	locais	territórios	
+Substituta: bairros
+
+Frase 225 rankings: sem espaço sob pontes e viadutos moradores de rua transformam calçadas em dormitórios e latrinas
+Palavra complexa: latrinas
+Palavras candidatas BERT: similares	etc	depósitos	
+Palavras candidatas Ranqueadas: etc	depósitos	similares	
+Substituta: etc
+
+Frase 226 rankings: é por isso que em quase todo prédio de vias como josé do patrocínio lima e silva venâncio aires e getúlio vargas grades separam passeios de espaços condominiais criando uma estética antimendigo na cidade
+Palavra complexa: vias
+Palavras candidatas BERT: [UNK]	mais	que	
+Palavras candidatas Ranqueadas: mais	que	
+Substituta: mais
+
+Frase 227 rankings: guelion da silva machado 22 anos há um ano e meio vivendo sob a ponte da ipiranga com a azenha compreende a indignação de quem acorda com fezes humanas na porta de casa
+Palavra complexa: indignação
+Palavras candidatas BERT: revolta	satisfação	reação	
+Palavras candidatas Ranqueadas: revolta	satisfação	
+Substituta: revolta
+
+Frase 228 rankings: segundo ele a segunda forma de escrita se trata de uma deformação popular que torna a sonoridade da palavra mais agradável e familiar
+Palavra complexa: sonoridade
+Palavras candidatas BERT: audição	leitura	acústica	
+Palavras candidatas Ranqueadas: audição	leitura	acústica	
+Substituta: audição
+
+Frase 229 rankings: a área de lazer está montada para não decepcionar as crianças
+Palavra complexa: montada
+Palavras candidatas BERT: armada	planejada	pronta	
+Palavras candidatas Ranqueadas: pronta	armada	
+Substituta: pronta
+
+Frase 230 rankings: júpiter e suas luas saturno e seus famosos anéis orion e sua constelação e até uma efêmera estrela cadente passaram em revista pelo olhar do grupo
+Palavra complexa: efêmera
+Palavras candidatas BERT: eterna	grande	[UNK]	
+Palavras candidatas Ranqueadas: eterna	grande	
+Substituta: eterna
+
+Frase 231 rankings: algumas particularidades dessa última ocorrência porém fizeram com que a direção ficasse ainda mais pesarosa
+Palavra complexa: particularidades
+Palavras candidatas BERT: características	característica	circunstâncias	
+Palavras candidatas Ranqueadas: características	circunstâncias	característica	
+Substituta: características
+
+Frase 232 rankings: algumas particularidades dessa última ocorrência porém fizeram com que a direção ficasse ainda mais pesarosa
+Palavra complexa: pesarosa
+Palavras candidatas BERT: difícil	perigosa	longe	
+Palavras candidatas Ranqueadas: difícil	perigosa	longe	
+Substituta: difícil
+
+Frase 233 rankings: emília quer acreditar que seus discursos tenham transmitido indignação aos alunos e o deles aos pais vizinhos à escola
+Palavra complexa: indignação
+Palavras candidatas BERT: revolta	raiva	preocupação	
+Palavras candidatas Ranqueadas: raiva	revolta	preocupação	
+Substituta: raiva
+
+Frase 234 rankings: apesar do esforço da família em se manter unida a mudança para viamão deixou uma seqüela
+Palavra complexa: seqüela
+Palavras candidatas BERT: marca	consequência	lesão	
+Palavras candidatas Ranqueadas: marca	consequência	lesão	
+Substituta: marca
+
+Frase 235 rankings: em 2007 25 milhões foram infectadas
+Palavra complexa: infectadas
+Palavras candidatas BERT: mortas	destruídas	feridas	
+Palavras candidatas Ranqueadas: mortas	destruídas	feridas	
+Substituta: mortas
+
+Frase 236 rankings: o número de mortes em decorrência da aids neste ano foi de 21 milhões
+Palavra complexa: decorrência
+Palavras candidatas BERT: consequência	virtude	razão	
+Palavras candidatas Ranqueadas: consequência	virtude	razão	
+Substituta: consequência
+
+Frase 237 rankings: ainda estamos muito distantes do patamar que consideramos adequado do ponto de vista ético e do compromisso assumido na assembléia geral da onu em 2001 diz chequer exdiretor do programa nacional de dst e aids
+Palavra complexa: patamar
+Palavras candidatas BERT: [UNK]	nível	ponto	
+Palavras candidatas Ranqueadas: nível	ponto	
+Substituta: nível
+
+Frase 238 rankings: os relatórios indicam aumento de 150 no número de infectados na europa oriental e na ásia central
+Palavra complexa: infectados
+Palavras candidatas BERT: doentes	casos	pacientes	
+Palavras candidatas Ranqueadas: doentes	casos	pacientes	
+Substituta: doentes
+
+Frase 239 rankings: o grupo rbs celebra hoje os seus primeiros 50 anos de existência com as mãos no trabalho os olhos no futuro e o coração tomado pela mesma paixão de comunicar que motivou maurício sirotsky sobrinho ao associarse à rádio gaúcha em 1957
+Palavra complexa: motivou
+Palavras candidatas BERT: [UNK]	–	mais	
+Palavras candidatas Ranqueadas: mais	
+Substituta: mais
+
+Frase 240 rankings: é para satisfazer plenamente ouvintes leitores telespectadores e usuários dos seus vários serviços que a rbs produz e entrega informação entretenimento e conteúdos diversos
+Palavra complexa: entretenimento
+Palavras candidatas BERT: diversão	musical	diver	
+Palavras candidatas Ranqueadas: diversão	musical	
+Substituta: diversão
+
+Frase 241 rankings: é em respeito a esse público que a rbs aperfeiçoou ao longo dessas cinco décadas uma linha editorial centrada na verdade na independência na democracia na liberdade de expressão no pluralismo de opiniões no localismo e na responsabilidade social
+Palavra complexa: aperfeiçoou
+Palavras candidatas BERT: desenvolveu	construiu	produziu	
+Palavras candidatas Ranqueadas: desenvolveu	construiu	produziu	
+Substituta: desenvolveu
+
+Frase 242 rankings: é em respeito a esse público que a rbs aperfeiçoou ao longo dessas cinco décadas uma linha editorial centrada na verdade na independência na democracia na liberdade de expressão no pluralismo de opiniões no localismo e na responsabilidade social
+Palavra complexa: localismo
+Palavras candidatas BERT: Brasil	país	estado	
+Palavras candidatas Ranqueadas: país	estado	
+Substituta: país
+
+Frase 243 rankings: o diretor também acredita que o tema do desfile educação trabalho e dignidade já é propício a manifestações
+Palavra complexa: propício
+Palavras candidatas BERT: favorável	apropriado	adequado	
+Palavras candidatas Ranqueadas: favorável	apropriado	adequado	
+Substituta: favorável
+
+Frase 244 rankings: a informação foi dada na conferência da origem do universo aos grandes telescópios ministrada ontem por joão steiner astrofísico da usp durante a 52ª reunião anual da sociedade brasileira para o progresso da ciência
+Palavra complexa: conferência
+Palavras candidatas BERT: [UNK]	palestra	aula	
+Palavras candidatas Ranqueadas: palestra	aula	
+Substituta: conferência
+
+Frase 245 rankings: essa pessoa não perceberia a terra que seria ofuscada pela luminosidade solar explicou steiner
+Palavra complexa: luminosidade
+Palavras candidatas BERT: luz	radiação	energia	
+Palavras candidatas Ranqueadas: luz	energia	radiação	
+Substituta: luz
+
+Frase 246 rankings: adalberto veríssimo da ong imazon apresentou estudo segundo o qual as cidades em regiões amazônicas ocupadas de forma predatória duram por volta de 23 anos
+Palavra complexa: predatória
+Palavras candidatas BERT: irregular	não	que	
+Palavras candidatas Ranqueadas: irregular	não	que	
+Substituta: irregular
+
+Frase 247 rankings: depois disso entram em colapso total por falta de uma política de desenvolvimento sustentável
+Palavra complexa: colapso
+Palavras candidatas BERT: falência	decadência	caos	
+Palavras candidatas Ranqueadas: falência	decadência	caos	
+Substituta: colapso
+
+Frase 248 rankings: para os paleontólogos achar esse tipo de evidência equivale a acertar na loteria
+Palavra complexa: evidência
+Palavras candidatas BERT: prova	informação	descoberta	
+Palavras candidatas Ranqueadas: prova	informação	descoberta	
+Substituta: prova
+
+Frase 249 rankings: é como se o dinossauro tivesse sido enterrado ontem disse alexander kellner geólogo do setor de paleovertebrados do museu nacional e coordenador da expedição que encontrou o fóssil na região da chapada do araripe ceará veja mapa
+Palavra complexa: expedição
+Palavras candidatas BERT: [UNK]	equipe	pesquisa	
+Palavras candidatas Ranqueadas: equipe	pesquisa	
+Substituta: equipe
+
+Frase 250 rankings: a proposta já faz parte de outras declarações como a declaração de consenso de atlanta de 99 assinadas por menos cientistas e sem endosso da oms
+Palavra complexa: endosso
+Palavras candidatas BERT: apoio	consentimento	aprovação	
+Palavras candidatas Ranqueadas: apoio	consentimento	aprovação	
+Substituta: apoio
+
+Frase 251 rankings: mas zonas de intensa urbanização recente como o sul dos eua e o norte do méxico também foram incluídas no novo mapa da escassez
+Palavra complexa: escassez
+Palavras candidatas BERT: abundância	falta	necessidade	
+Palavras candidatas Ranqueadas: falta	abundância	necessidade	
+Substituta: falta
+
+Frase 252 rankings: a equipe liderada por yoshihiro kawaoka analisou amostras do h5 n1 o vírus influenza que em 1997 matou 6 das 18 pessoas infectadas em hong kong
+Palavra complexa: infectadas
+Palavras candidatas BERT: residentes	mortas	presentes	
+Palavras candidatas Ranqueadas: mortas	residentes	presentes	
+Substituta: mortas
+
+Frase 253 rankings: cientistas do centro de estudos de saclay na frança parecem ter encontrado o primeiro indício de que a via láctea esteja cercada por um verdadeiro campo minado de buracos negros cerca de 1 milhão ao todo eles estimam
+Palavra complexa: estimam
+Palavras candidatas BERT: [UNK]	–	mais	
+Palavras candidatas Ranqueadas: mais	
+Substituta: mais
+
+Frase 254 rankings: a pesquisa que sai publicada hoje na revista britânica nature wwwnaturecom é a primeira a constatar que um buraco negro está orbitando o centro da via láctea fora do plano do disco galáctico
+Palavra complexa: constatar
+Palavras candidatas BERT: [UNK]	ver	vez	
+Palavras candidatas Ranqueadas: ver	vez	
+Substituta: ver
+
+Frase 255 rankings: um buraco negro é o resultado do colapso de uma estrela muito maciça
+Palavra complexa: maciça
+Palavras candidatas BERT: fina	densa	grande	
+Palavras candidatas Ranqueadas: fina	grande	densa	
+Substituta: fina
+
+Frase 256 rankings: atualmente o único meio seguro de aferir sua presença é observar astros próximos que estejam sob influência de sua gravidade
+Palavra complexa: aferir
+Palavras candidatas BERT: medir	verificar	detectar	
+Palavras candidatas Ranqueadas: verificar	medir	detectar	
+Substituta: verificar
+
+Frase 257 rankings: a riqueza de artefatos de várias origens ali depositados pelas sucessivas levas de ocupantes do território português
+Palavra complexa: artefatos
+Palavras candidatas BERT: itens	objetos	materiais	
+Palavras candidatas Ranqueadas: materiais	itens	
+Substituta: materiais
+
+Frase 258 rankings: o livro é o primeiro no país a descrever esse aspecto da arqueologia em geral associado negativamente com a caça a tesouros
+Palavra complexa: associado
+Palavras candidatas BERT: relacionado	envolvido	ligado	
+Palavras candidatas Ranqueadas: relacionado	ligado	envolvido	
+Substituta: relacionado
+
+Frase 259 rankings: agora ele informa que um deles está atravessando a vastidão da galáxia a uma velocidade exorbitante vindo direto para cá
+Palavra complexa: exorbitante
+Palavras candidatas BERT: incrível	impressionante	crescente	
+Palavras candidatas Ranqueadas: impressionante	incrível	crescente	
+Substituta: impressionante
+
+Frase 260 rankings: apesar disso esse objeto viajando pelo espaço a 400 mil quilômetros por hora 12703 da velocidade da luz é um lembrete incômodo de que buracos negros não têm as trajetórias comportadas e previsíveis que todos gostariam que eles tivessem
+Palavra complexa: previsíveis
+Palavras candidatas BERT: [UNK]	mais	acho	
+Palavras candidatas Ranqueadas: mais	acho	
+Substituta: mais
+
+Frase 261 rankings: em volta do buraco negro está orbitando uma estrela subgigante bastante comum
+Palavra complexa: orbitando
+Palavras candidatas BERT: acontecendo	ocorrendo	também	
+Palavras candidatas Ranqueadas: acontecendo	também	ocorrendo	
+Substituta: acontecendo
+
+Frase 262 rankings: estimativas anteriores sugeriam que um evento desses ocorresse em média a cada 200 ou 300 anos
+Palavra complexa: estimativas
+Palavras candidatas BERT: expectativas	cálculos	versões	
+Palavras candidatas Ranqueadas: cálculos	expectativas	versões	
+Substituta: cálculos
+
+Frase 263 rankings: as medidas de estresse eram o ritmo de batimento cardíaco e a pressão sanguínea
+Palavra complexa: cardíaco
+Palavras candidatas BERT: coração	muscular	cerebral	
+Palavras candidatas Ranqueadas: coração	muscular	cerebral	
+Substituta: coração
+
+Frase 264 rankings: depois de ter sido acusada pela organização mundial da saúde de ter mais casos de pneumonia asiática do que relatava publicamente a china prometeu mais transparência na notificação de casos da doença
+Palavra complexa: transparência
+Palavras candidatas BERT: rigor	detalhes	atenção	
+Palavras candidatas Ranqueadas: rigor	atenção	detalhes	
+Substituta: rigor
+
+Frase 265 rankings: depois de ter sido acusada pela organização mundial da saúde de ter mais casos de pneumonia asiática do que relatava publicamente a china prometeu mais transparência na notificação de casos da doença
+Palavra complexa: notificação
+Palavras candidatas BERT: divulgação	investigação	informação	
+Palavras candidatas Ranqueadas: divulgação	informação	investigação	
+Substituta: notificação
+
+Frase 266 rankings: o encontro do partido ocorreu um dia depois de a oms ter dito que pequim tem 200 casos de sars em vez dos 37 notificados
+Palavra complexa: notificados
+Palavras candidatas BERT: [UNK]	mais	que	
+Palavras candidatas Ranqueadas: que	mais	
+Substituta: que
+
+Frase 267 rankings: segundo informou a asi agência espacial italiana no fim da noite de ontem por telefone o impacto dos destroços teria ocorrido às 18h06 horário de brasília numa área remota do oceano
+Palavra complexa: destroços
+Palavras candidatas BERT: materiais	objetos	danos	
+Palavras candidatas Ranqueadas: danos	materiais	
+Substituta: danos
+
+Frase 268 rankings: os resultados do trabalho que tem como autores pesquisadores franceses e argentinos e o astrofísico brasileiro irapuan rodrigues haviam sido noticiados pela folha em março antes de o estudo ser selecionado para publicação
+Palavra complexa: selecionado
+Palavras candidatas BERT: feito	lançado	enviado	
+Palavras candidatas Ranqueadas: feito	enviado	lançado	
+Substituta: feito
+
+Frase 269 rankings: a idéia iniciada em 1976 era coletar e preservar criogenicamente em baixas temperaturas amostras celulares de animais ameaçados de extinção com a esperança de estudálos e quem sabe ressuscitálos quando a tecnologia assim o permitisse
+Palavra complexa: amostras
+Palavras candidatas BERT: [UNK]	–	das	
+Palavras candidatas Ranqueadas: das	
+Substituta: das
+
+Frase 270 rankings: primeiro pede que a comissão técnica nacional de biossegurança ctnbio seja a única instância a regulamentar tanto a pesquisa como a comercialização de transgênicos no âmbito do mérito científico
+Palavra complexa: regulamentar
+Palavras candidatas BERT: controlar	fazer	[UNK]	
+Palavras candidatas Ranqueadas: controlar	fazer	
+Substituta: controlar
+
+Frase 271 rankings: os resultados fornecem novos lampejos sobre a estrutura da comunidade e revelam as estratégias que marcam a atividade microbiana nesse ambiente dizem
+Palavra complexa: lampejos
+Palavras candidatas BERT: conhecimentos	dados	elementos	
+Palavras candidatas Ranqueadas: conhecimentos	dados	elementos	
+Substituta: conhecimentos
+
+Frase 272 rankings: por enquanto as implicações estão mais ligadas à prevenção do mal de alzheimer do que a uma possível melhora do prognóstico dos pacientes afirmou mattson que participou da conferência apresentando os seus dados da pesquisa por telefone por estar gripado
+Palavra complexa: implicações
+Palavras candidatas BERT: questões	consequências	[UNK]	
+Palavras candidatas Ranqueadas: questões	consequências	
+Substituta: questões
+
+Frase 273 rankings: colegas de mattson também revelaram novas evidências de que o consumo de vitaminas como suplemento alimentar e provenientes de vegetais seria capaz de prevenir o advento da doença e mesmo de que as estatinas hoje usadas para o combate ao colesterol na corrente sangüínea também poderiam evitar o aparecimento do mal de alzheimer
+Palavra complexa: evidências
+Palavras candidatas BERT: [UNK]	provas	informações	
+Palavras candidatas Ranqueadas: provas	informações	
+Substituta: provas
+
+Frase 274 rankings: colegas de mattson também revelaram novas evidências de que o consumo de vitaminas como suplemento alimentar e provenientes de vegetais seria capaz de prevenir o advento da doença e mesmo de que as estatinas hoje usadas para o combate ao colesterol na corrente sangüínea também poderiam evitar o aparecimento do mal de alzheimer
+Palavra complexa: aparecimento
+Palavras candidatas BERT: fim	[UNK]	desenvolvimento	
+Palavras candidatas Ranqueadas: fim	desenvolvimento	
+Substituta: fim
+
+Frase 275 rankings: num trabalho aprovado para publicação na revista científica pnas wwwpnasorg a equipe mostrou que o aparecimento da betaamilóide induz um acúmulo anormal de colesterol e ceramida
+Palavra complexa: aparecimento
+Palavras candidatas BERT: desaparecimento	desenvolvimento	surgimento	
+Palavras candidatas Ranqueadas: desaparecimento	desenvolvimento	surgimento	
+Substituta: desaparecimento
+
+Frase 276 rankings: mas ninguém conseguira detectar flutuações até o cobe
+Palavra complexa: flutuações
+Palavras candidatas BERT: variações	mudanças	velocidades	
+Palavras candidatas Ranqueadas: variações	mudanças	velocidades	
+Substituta: variações
+
+Frase 277 rankings: a partir das flutuações é possível estimar a quantidade de matéria e energia existente no universo e a idade do cosmos entre outras descobertas importantes
+Palavra complexa: estimar
+Palavras candidatas BERT: calcular	determinar	prever	
+Palavras candidatas Ranqueadas: determinar	calcular	prever	
+Substituta: determinar
+
+Frase 278 rankings: como a correnteza na planície é muito fraca há acúmulo no fundo do taquari
+Palavra complexa: acúmulo
+Palavras candidatas BERT: água	muito	chuva	
+Palavras candidatas Ranqueadas: muito	água	chuva	
+Substituta: muito
+
+Frase 279 rankings: estudos baseados em modelos de computador publicados nos dois principais periódicos científicos do planeta indicam que diagnóstico rápido quarentena de doentes e tratamento em massa com antivirais seriam capazes de impedir algo semelhante ao que aconteceu com a chamada gripe espanhola logo depois da primeira guerra mundial
+Palavra complexa: diagnóstico
+Palavras candidatas BERT: uma	[UNK]	mais	
+Palavras candidatas Ranqueadas: uma	mais	
+Substituta: uma
+
+Frase 280 rankings: estudos baseados em modelos de computador publicados nos dois principais periódicos científicos do planeta indicam que diagnóstico rápido quarentena de doentes e tratamento em massa com antivirais seriam capazes de impedir algo semelhante ao que aconteceu com a chamada gripe espanhola logo depois da primeira guerra mundial
+Palavra complexa: antivirais
+Palavras candidatas BERT: drogas	eles	pacientes	
+Palavras candidatas Ranqueadas: drogas	eles	pacientes	
+Substituta: drogas
+
+Frase 281 rankings: as vítimas se infectam por inalação ou ingestão do vírus nas fezes e nas secreções das aves cujo organismo foi invadido
+Palavra complexa: infectam
+Palavras candidatas BERT: contam	alimentam	formam	
+Palavras candidatas Ranqueadas: contam	alimentam	formam	
+Substituta: contam
+
+Frase 282 rankings: as novas câmeras instaladas para monitorar a subida do ônibus ao espaço revelaram que pedaços de espuma sólida relativamente grandes continuavam a se desprender do tanque externo do veículo
+Palavra complexa: monitorar
+Palavras candidatas BERT: acompanhar	registrar	filmar	
+Palavras candidatas Ranqueadas: acompanhar	filmar	
+Substituta: acompanhar
+
+Frase 283 rankings: o discovery precisa de reparos antes de voltar para casa
+Palavra complexa: reparos
+Palavras candidatas BERT: manutenção	revisão	cuidados	
+Palavras candidatas Ranqueadas: manutenção	cuidados	revisão	
+Substituta: manutenção
+
+Frase 284 rankings: graças ao novo sistema de inspeção da nave foi possível detectar o fenômeno no espaço
+Palavra complexa: inspeção
+Palavras candidatas BERT: observação	fiscalização	detecção	
+Palavras candidatas Ranqueadas: observação	detecção	
+Substituta: observação
+
+Frase 285 rankings: a principal tarefa agendada será instalar uma plataforma de armazenamento do lado de fora da estação
+Palavra complexa: armazenamento
+Palavras candidatas BERT: memória	gerenciamento	espaço	
+Palavras candidatas Ranqueadas: memória	espaço	
+Substituta: memória
+
+Frase 286 rankings: enquanto a nasa trabalha furiosamente para manter suas naves em operação a despeito dos problemas com a espuma os parceiros internacionais no projeto da construção da iss estão preocupados
+Palavra complexa: parceiros
+Palavras candidatas BERT: [UNK]	recursos	projetos	
+Palavras candidatas Ranqueadas: recursos	
+Substituta: recursos
+
+Frase 287 rankings: as criaturas antes desconhecidas no brasil podem ajudar a elucidar o mecanismo bioquímico que leva à produção de luz em fungos
+Palavra complexa: elucidar
+Palavras candidatas BERT: explicar	entender	descobrir	
+Palavras candidatas Ranqueadas: explicar	entender	descobrir	
+Substituta: explicar
+
+Frase 288 rankings: além disso com um pouco mais de estudo poderiam servir como sensores vivos de poluição ou mesmo fontes de moléculas úteis para a biotecnologia
+Palavra complexa: sensores
+Palavras candidatas BERT: agentes	indicadores	controles	
+Palavras candidatas Ranqueadas: agentes	indicadores	controles	
+Substituta: agentes
+
+Frase 289 rankings: segundo cassius vinicius stevani químico da usp que coordena os estudos é possível que o material recolhido abranja pelo menos dez espécies novas
+Palavra complexa: abranja
+Palavras candidatas BERT: alcance	tenha	seja	
+Palavras candidatas Ranqueadas: tenha	seja	alcance	
+Substituta: tenha
+
+Frase 290 rankings: com base em relatos de moradores e muita paciência na coleta a equipe chegou aos cogumelos em dois locais
+Palavra complexa: relatos
+Palavras candidatas BERT: narrativas	comentários	informações	
+Palavras candidatas Ranqueadas: comentários	informações	
+Substituta: comentários
+
+Frase 291 rankings: a boa notícia é que pesquisadores argentinos acharam o mais antigo mamífero com traços modernos da américa do sul capaz de preencher uma lacuna de milhões de anos na história desses animais
+Palavra complexa: lacuna
+Palavras candidatas BERT: vaga	reserva	vazio	
+Palavras candidatas Ranqueadas: vaga	reserva	vazio	
+Substituta: vaga
+
+Frase 292 rankings: pouco abaixo dele nas camadas de rocha estão mariscos fósseis que se extinguiram no fim do cretáceo enquanto lhe faziam companhia moluscos típicos do paleoceno
+Palavra complexa: mariscos
+Palavras candidatas BERT: fósseis	vivos	peixes	
+Palavras candidatas Ranqueadas: vivos	fósseis	peixes	
+Substituta: vivos
+
+Frase 293 rankings: a linhagem dos marsupiais e placentários que são conhecidos pelo apelido comum de térios se distingue justamente pelas cavidades especiais dos molares que ajudam a triturar a comida com mais eficiência e estão presentes no espécime
+Palavra complexa: triturar
+Palavras candidatas BERT: cortar	fazer	transportar	
+Palavras candidatas Ranqueadas: cortar	fazer	transportar	
+Substituta: cortar
+
+Frase 294 rankings: por décadas os cientistas tiveram de quebrar a cabeça para criar antídotos contra o veneno das cobras
+Palavra complexa: antídotos
+Palavras candidatas BERT: medicamentos	drogas	armas	
+Palavras candidatas Ranqueadas: medicamentos	armas	drogas	
+Substituta: medicamentos
+
+Frase 295 rankings: ao vasculhar o sangue dos animais em busca das moléculas responsáveis pela resistência perales e seus colegas chegaram a duas substâncias conhecidas como dm43 e dm64
+Palavra complexa: vasculhar
+Palavras candidatas BERT: investigar	encontrar	olhar	
+Palavras candidatas Ranqueadas: investigar	encontrar	olhar	
+Substituta: investigar
+
+Frase 296 rankings: um dos protótipos iniciais continha uma rede de 16 sensores de pressão por centímetros quadrado
+Palavra complexa: sensores
+Palavras candidatas BERT: indicadores	controles	receptores	
+Palavras candidatas Ranqueadas: controles	indicadores	receptores	
+Substituta: sensores
+
+Frase 297 rankings: segundo eles a pele humana ainda é bem mais complexa do que as imitações desenvolvidas até agora
+Palavra complexa: imitações
+Palavras candidatas BERT: outras	mais	versões	
+Palavras candidatas Ranqueadas: outras	mais	versões	
+Substituta: outras
+
+Frase 298 rankings: um ser que invade corpos e domina a mente alheia forçando suas vítimas a fazer o que ele ordena não é mero personagem de ficção
+Palavra complexa: alheia
+Palavras candidatas BERT: humana	dela	feminina	
+Palavras candidatas Ranqueadas: humana	dela	feminina	
+Substituta: humana
+
+Frase 299 rankings: um ser que invade corpos e domina a mente alheia forçando suas vítimas a fazer o que ele ordena não é mero personagem de ficção
+Palavra complexa: mero
+Palavras candidatas BERT: [UNK]	qualquer	nenhum	
+Palavras candidatas Ranqueadas: qualquer	nenhum	
+Substituta: qualquer
+
+Frase 300 rankings: no futuro quando a produção de tecido hepático se tornar uma realidade o número de transplantes poderá ser minimizado disse à folha por email joe jackson um dos autores do estudo que sai hoje na revista nature
+Palavra complexa: minimizado
+Palavras candidatas BERT: [UNK]	mais	u	
+Palavras candidatas Ranqueadas: mais	
+Substituta: mais
+
+Frase 301 rankings: a estimativa anterior da organização das nações unidas onu calculava em meio bilhão o número de indivíduos expostos atualmente ao problema
+Palavra complexa: estimativa
+Palavras candidatas BERT: previsão	projeção	expectativa	
+Palavras candidatas Ranqueadas: previsão	expectativa	
+Substituta: previsão
+
+Frase 302 rankings: a estimativa anterior da organização das nações unidas onu calculava em meio bilhão o número de indivíduos expostos atualmente ao problema
+Palavra complexa: atualmente
+Palavras candidatas BERT: diretamente	[UNK]	devido	
+Palavras candidatas Ranqueadas: devido	
+Substituta: devido
+
+Frase 303 rankings: por severa escassez de água potável entendese segundo a onu o uso de mais de 40 das reservas do líquido disponíveis em uma região para consumo industrial doméstico e agrícola
+Palavra complexa: escassez
+Palavras candidatas BERT: falta	necessidade	crise	
+Palavras candidatas Ranqueadas: falta	necessidade	crise	
+Substituta: falta
+
+Frase 304 rankings: o trabalho foi coordenado pelo geocientista charles vörösmarty da universidade de new hampshire nos estados unidos
+Palavra complexa: coordenado
+Palavras candidatas BERT: liderado	conduzido	orientado	
+Palavras candidatas Ranqueadas: conduzido	
+Substituta: conduzido
+
+Frase 305 rankings: os camundongos com essa alteração genética comeram até 54 mais que os camundongos normais
+Palavra complexa: genética
+Palavras candidatas BERT: DNA	também	não	
+Palavras candidatas Ranqueadas: também	não	
+Substituta: também
+
+Frase 306 rankings: o fato de o ucp3 ser um gene humano facilita aplicações clínicas da pesquisa
+Palavra complexa: clínicas
+Palavras candidatas BERT: médicas	científicas	práticas	
+Palavras candidatas Ranqueadas: médicas	científicas	práticas	
+Substituta: médicas
+
+Frase 307 rankings: um buraco negro é o resultado do colapso de uma estrela muito maciça
+Palavra complexa: colapso
+Palavras candidatas BERT: choque	impacto	declínio	
+Palavras candidatas Ranqueadas: choque	impacto	declínio	
+Substituta: choque
+
+Frase 308 rankings: a equipe rastreou a trajetória do buraco negro usando novas observações e a análise de dados anteriores coletados por 43 anos
+Palavra complexa: rastreou
+Palavras candidatas BERT: descobriu	identificou	estudou	
+Palavras candidatas Ranqueadas: descobriu	identificou	estudou	
+Substituta: descobriu
+
+Frase 309 rankings: a partir dessas observações eles calcularam a órbita do astro e constataram que se trata de um objeto que passa a maior parte do tempo no halo galáctico a região que circunda a via láctea
+Palavra complexa: constataram
+Palavras candidatas BERT: [UNK]	descobrir	verificar	
+Palavras candidatas Ranqueadas: descobrir	verificar	
+Substituta: descobrir
+
+Frase 310 rankings: seu grupo está atualmente concluindo um segundo estudo que deve nos próximos meses ser submetido a uma revista científica abordando não um mas cinco astros sendo um deles o mencionado na pesquisa publicada hoje
+Palavra complexa: submetido
+Palavras candidatas BERT: publicado	dedicado	u	
+Palavras candidatas Ranqueadas: publicado	dedicado	
+Substituta: publicado
+
+Frase 311 rankings: um modelo testado em simulações muito detalhadas parece explicar como os planetas gigantes podem se formar mais rápido e mais vezes do que julgavam as teorias tradicionais
+Palavra complexa: simulações
+Palavras candidatas BERT: situações	condições	análises	
+Palavras candidatas Ranqueadas: situações	condições	análises	
+Substituta: situações
+
+Frase 312 rankings: a solução foi sugerir um modelo alternativo em que nos primórdios da formação de um sistema planetário instabilidades gravitacionais no disco de gás e poeira já induziriam o surgimento dos envelopes dos gigantes gasosos numa velocidade pelo menos dez vezes maior
+Palavra complexa: primórdios
+Palavras candidatas BERT: iniciais	antes	início	
+Palavras candidatas Ranqueadas: antes	iniciais	início	
+Substituta: antes
+
+Frase 313 rankings: mesmo sem confirmar o relato histórico feito por um cronista árabe no ano de 996 de que navios vikings teriam afundado a caminho de atacar a cidade de silves os arqueólogos puderam encontrar um tesouro de outro tipo
+Palavra complexa: cronista
+Palavras candidatas BERT: jornalista	escritor	narrador	
+Palavras candidatas Ranqueadas: escritor	jornalista	narrador	
+Substituta: escritor
+
+Frase 314 rankings: segundo os arqueólogos durante a escavação foram encontrados inúmeros fragmentos principalmente cerâmicos que vão desde ânforas romanas até utensílios inteiros do século 16 passando pela cerâmica árabe
+Palavra complexa: fragmentos
+Palavras candidatas BERT: [UNK]	materiais	objetos	
+Palavras candidatas Ranqueadas: materiais	
+Substituta: materiais
+
+Frase 315 rankings: computando semelhanças e diferenças os cientistas estimaram que a domesticação deve ter ocorrido 15 mil anos atrás embora também possa ter acontecido antes há 40 mil anos
+Palavra complexa: computando
+Palavras candidatas BERT: considerando	Considerando	Entre	
+Palavras candidatas Ranqueadas: considerando	
+Substituta: considerando
+
+Frase 316 rankings: sem falar no fornecimento da mais concreta evidência de que são realmente o resultado de supernovas explosões de estrelas muito maciças
+Palavra complexa: maciças
+Palavras candidatas BERT: mais	[UNK]	são	
+Palavras candidatas Ranqueadas: mais	são	
+Substituta: mais
+
+Frase 317 rankings: ele teria sido chutado para fora de sua órbita regular em torno do centro galáctico após a explosão da supernova e a conversão em buraco negro
+Palavra complexa: conversão
+Palavras candidatas BERT: transformação	mudança	transformada	
+Palavras candidatas Ranqueadas: transformação	mudança	transformada	
+Substituta: transformação
+
+Frase 318 rankings: os experimentos foram realizados na própria casa em um quarto ao qual moradores e bichos estavam acostumados
+Palavra complexa: experimentos
+Palavras candidatas BERT: testes	ensaios	estudos	
+Palavras candidatas Ranqueadas: testes	estudos	ensaios	
+Substituta: testes
+
+Frase 319 rankings: o maldi feito pelo grupo do lip laboratório de instrumentação e partículas do instituto de física também financiado pela fapesp saiu bem mais em conta
+Palavra complexa: financiado
+Palavras candidatas BERT: patrocinado	apoiado	coberto	
+Palavras candidatas Ranqueadas: apoiado	patrocinado	coberto	
+Substituta: apoiado
+
+Frase 320 rankings: o maldi pesa as moléculas bombardeando a amostra que se quer estudar com pulsos de laser
+Palavra complexa: amostra
+Palavras candidatas BERT: prova	parte	mistura	
+Palavras candidatas Ranqueadas: parte	mistura	prova	
+Substituta: parte
+
+Frase 321 rankings: o bombardeamento da amostra é feito por partículas de califórnio um elemento radioativo em vez de laser
+Palavra complexa: amostra
+Palavras candidatas BERT: prova	mistura	água	
+Palavras candidatas Ranqueadas: prova	mistura	água	
+Substituta: prova
+
+Frase 322 rankings: não deve haver demora nem fraude no relato dos casos afirmou a agência citando o comitê cuja reunião foi liderada pelo presidente chinês hu jintao
+Palavra complexa: liderada
+Palavras candidatas BERT: comandada	organizada	comandado	
+Palavras candidatas Ranqueadas: organizada	
+Substituta: organizada
+
+Frase 323 rankings: segundo o último relatório da oms a pneumonia asiática já matou 170 pessoas e infectou 3461 nos cinco continentes
+Palavra complexa: infectou
+Palavras candidatas BERT: matou	morreu	fechou	
+Palavras candidatas Ranqueadas: matou	morreu	fechou	
+Substituta: matou
+
+Frase 324 rankings: os fragmentos do satélite italiano bepposax mergulharam na noite de ontem no oceano pacífico deixando aliviados os mais de 30 países inclusive o brasil que estavam sob risco de serem atingidos pelos destroços
+Palavra complexa: fragmentos
+Palavras candidatas BERT: [UNK]	filmes	pontos	
+Palavras candidatas Ranqueadas: filmes	pontos	
+Substituta: filmes
+
+Frase 325 rankings: segundo informou a asi agência espacial italiana no fim da noite de ontem por telefone o impacto dos destroços teria ocorrido às 18h06 horário de brasília numa área remota do oceano
+Palavra complexa: impacto
+Palavras candidatas BERT: choque	encontro	acidente	
+Palavras candidatas Ranqueadas: choque	encontro	acidente	
+Substituta: choque
+
+Frase 326 rankings: como a volta à terra não foi realizada de forma controlada como aconteceu com as 135 toneladas da estação espacial mir em 2001 era impossível prever exatamente onde os destroços iriam cair
+Palavra complexa: destroços
+Palavras candidatas BERT: corpos	pedaços	aviões	
+Palavras candidatas Ranqueadas: corpos	pedaços	aviões	
+Substituta: corpos
+
+Frase 327 rankings: os resultados do trabalho que tem como autores pesquisadores franceses e argentinos e o astrofísico brasileiro irapuan rodrigues haviam sido noticiados pela folha em março antes de o estudo ser selecionado para publicação
+Palavra complexa: noticiados
+Palavras candidatas BERT: publicados	descobertos	conhecidos	
+Palavras candidatas Ranqueadas: publicados	conhecidos	descobertos	
+Substituta: publicados
+
+Frase 328 rankings: a realização é fruto de uma parceria entre a companhia de biotecnologia advanced cell technology de massachusetts o centro sioux de iowa e o centro para reprodução de espécies ameaçadas da sociedade zoológica de san diego na califórnia
+Palavra complexa: parceria
+Palavras candidatas BERT: aliança	colaboração	sociedade	
+Palavras candidatas Ranqueadas: aliança	colaboração	sociedade	
+Substituta: aliança
+
+Frase 329 rankings: o segundo está mais debilitado
+Palavra complexa: debilitado
+Palavras candidatas BERT: fraco	lento	avançado	
+Palavras candidatas Ranqueadas: fraco	lento	avançado	
+Substituta: fraco
+
+Frase 330 rankings: segundo pesquisadores que estudam a evolução do parasita cujo nome oficial é coronavírus urbani sarsassociado a mais nova dor de cabeça da humanidade parasitava algum animal possivelmente uma ave na china e por alguma razão pulou a barreira de espécies
+Palavra complexa: possivelmente
+Palavras candidatas BERT: mais	[UNK]	com	
+Palavras candidatas Ranqueadas: mais	com	
+Substituta: mais
+
+Frase 331 rankings: o que o tornou um matador tão eficiente foi uma recombinação
+Palavra complexa: matador
+Palavras candidatas BERT: assassino	criminoso	homem	
+Palavras candidatas Ranqueadas: assassino	homem	criminoso	
+Substituta: assassino
+
+Frase 332 rankings: vitoriosa é o resultado de um experimento realizado pela embrapa
+Palavra complexa: experimento
+Palavras candidatas BERT: estudo	teste	trabalho	
+Palavras candidatas Ranqueadas: estudo	teste	trabalho	
+Substituta: estudo
+
+Frase 333 rankings: o clone do clone coloca o brasil na vanguarda científica desse assunto como já está no seqüenciamento soletração de genoma afirmou rodrigues
+Palavra complexa: vanguarda
+Palavras candidatas BERT: [UNK]	parte	elite	
+Palavras candidatas Ranqueadas: parte	elite	
+Substituta: parte
+
+Frase 334 rankings: a estimativa foi apresentada por john schellnhuber do centro tyndall em norwich numa conferência sobre os efeitos da mudança climática durante a reunião da aaas
+Palavra complexa: conferência
+Palavras candidatas BERT: [UNK]	reunião	exposição	
+Palavras candidatas Ranqueadas: reunião	exposição	
+Substituta: reunião
+
+Frase 335 rankings: capitaneados por sir david king o principal assessor científico do governo britânico os pesquisadores não pouparam esforços para demonstrar que o aquecimento global já está pondo em risco as vidas e a economia humanas em diversas regiões
+Palavra complexa: capitaneados
+Palavras candidatas BERT: [UNK]	mais	com	
+Palavras candidatas Ranqueadas: com	mais	
+Substituta: com
+
+Frase 336 rankings: esse mecanismo é o equivalente geológico de um cobertor numa noite fria que aquece a atmosfera da terra retendo radiação do sol que de outro modo se dissiparia no espaço
+Palavra complexa: dissiparia
+Palavras candidatas BERT: reflete	espalha	concentra	
+Palavras candidatas Ranqueadas: espalha	concentra	
+Substituta: espalha
+
+Frase 337 rankings: estamos recolhendo amostras de coprólitos fezes fossilizadas de duas cavernas em israel com 40 mil anos onde provavelmente cromagnons os primeiros humanos modernos e neandertais viveram lado a lado contou o pesquisador durante a reunião da associação americana para o avanço da ciência
+Palavra complexa: amostras
+Palavras candidatas BERT: [UNK]	milhares	fotos	
+Palavras candidatas Ranqueadas: milhares	fotos	
+Substituta: milhares
+
+Frase 338 rankings: depois disso o que você faz é basicamente sequenciar tudo o que está ali e examinar toda a cadeia de relações alimentares ecológicas e de parentesco das pessoas e animais que habitaram a caverna afirma
+Palavra complexa: sequenciar
+Palavras candidatas BERT: analisar	estudar	investigar	
+Palavras candidatas Ranqueadas: analisar	estudar	investigar	
+Substituta: analisar
+
+Frase 339 rankings: agora os cientistas já agarram um punhado deles de uma vez e trabalham em todos ao mesmo tempo
+Palavra complexa: punhado
+Palavras candidatas BERT: milhão	dedo	pedaço	
+Palavras candidatas Ranqueadas: milhão	dedo	pedaço	
+Substituta: milhão
+
+Frase 340 rankings: a sorte dos cientistas liderados por jillian banfield da universidade da califórnia em berkeley foi que a amostra de efluentes ácidos analisada tinha um pequeno número de organismos
+Palavra complexa: liderados
+Palavras candidatas BERT: aliados	reunidos	partidários	
+Palavras candidatas Ranqueadas: aliados	reunidos	
+Substituta: aliados
+
+Frase 341 rankings: mesmo assim ele e seus colegas mostraram evidências de que o uso de substâncias como a vitamina e poderia reduzir os danos causados pelo colesterol aos pacientes com a doença
+Palavra complexa: evidências
+Palavras candidatas BERT: provas	indícios	sinais	
+Palavras candidatas Ranqueadas: provas	indícios	sinais	
+Substituta: provas
+
+Frase 342 rankings: colegas de mattson também revelaram novas evidências de que o consumo de vitaminas como suplemento alimentar e provenientes de vegetais seria capaz de prevenir o advento da doença e mesmo de que as estatinas hoje usadas para o combate ao colesterol na corrente sangüínea também poderiam evitar o aparecimento do mal de alzheimer
+Palavra complexa: advento
+Palavras candidatas BERT: fim	[UNK]	desenvolvimento	
+Palavras candidatas Ranqueadas: fim	desenvolvimento	
+Substituta: fim
+
+Frase 343 rankings: mattson e colegas descobriram uma espécie de combinação letal entre o aparecimento da betaamilóide e a presença de colesterol e de ceramida nos neurônios de pessoas mortas com o mal
+Palavra complexa: aparecimento
+Palavras candidatas BERT: [UNK]	fim	presença	
+Palavras candidatas Ranqueadas: fim	presença	
+Substituta: fim
+
+Frase 344 rankings: os resultados são importante referência para os médicos decidirem se e quando devem seguir uma estratégia de interrupção estruturada ao receitar drogas contra o hiv
+Palavra complexa: estruturada
+Palavras candidatas BERT: organizada	consistente	montada	
+Palavras candidatas Ranqueadas: organizada	consistente	montada	
+Substituta: organizada
+
+Frase 345 rankings: se tirarmos a comida dos flamenguistas quanto tempo vai levar para que os torcedores americanos os superem em número
+Palavra complexa: superem
+Palavras candidatas BERT: tenham	sejam	matem	
+Palavras candidatas Ranqueadas: tenham	sejam	matem	
+Substituta: tenham
+
+Frase 346 rankings: para ele em condições ideais o método funcionaria melhor em pacientes que tivessem um quadro estável com baixa contagem de vírus e forte presença de células de defesa
+Palavra complexa: contagem
+Palavras candidatas BERT: presença	porcentagem	perda	
+Palavras candidatas Ranqueadas: presença	perda	
+Substituta: presença
+
+Frase 347 rankings: todos os 35 estudados já não respondiam mais aos tratamentos convencionais quando foram escalados para a pesquisa
+Palavra complexa: convencionais
+Palavras candidatas BERT: comuns	até	antes	
+Palavras candidatas Ranqueadas: até	comuns	antes	
+Substituta: até
+
+Frase 348 rankings: todos os 35 estudados já não respondiam mais aos tratamentos convencionais quando foram escalados para a pesquisa
+Palavra complexa: escalados
+Palavras candidatas BERT: designados	convidados	chamados	
+Palavras candidatas Ranqueadas: convidados	chamados	
+Substituta: convidados
+
+Frase 349 rankings: os resultados do cobe foram relevantes mas o estado da arte são as imagens do satélite wmap wilkinson microwave anisotropy probe cujos primeiros dados saíram em 2003
+Palavra complexa: relevantes
+Palavras candidatas BERT: melhores	mais	importantes	
+Palavras candidatas Ranqueadas: melhores	mais	importantes	
+Substituta: melhores
+
+Frase 350 rankings: os sedimentos são arrastados para a parte baixa do rio
+Palavra complexa: sedimentos
+Palavras candidatas BERT: resíduos	sólidos	solos	
+Palavras candidatas Ranqueadas: resíduos	solos	sólidos	
+Substituta: resíduos
+
+Frase 351 rankings: mas os cientistas se preocupam com a possibilidade de que mutações aleatórias no vírus acabem criando cepas capazes de serem transmitidas de pessoa a pessoa criando o potencial de uma nova pandemia uma epidemia de proporções globais
+Palavra complexa: cepas
+Palavras candidatas BERT: [UNK]	mais	ser	
+Palavras candidatas Ranqueadas: mais	ser	
+Substituta: mais
+
+Frase 352 rankings: os dados para as simulações de computador foram obtidos na tailândia um país do sudeste asiático que além de estar vulnerável à doença dispunha de um conjunto de estatísticas detalhado e adequado aos modelos
+Palavra complexa: vulnerável
+Palavras candidatas BERT: sensível	exposto	sujeito	
+Palavras candidatas Ranqueadas: sensível	exposto	sujeito	
+Substituta: sensível
+
+Frase 353 rankings: nenhuma isoladamente conseguiria prevenir com sucesso uma epidemia
+Palavra complexa: isoladamente
+Palavras candidatas BERT: sozinha	sozinho	individualmente	
+Palavras candidatas Ranqueadas: sozinha	sozinho	individualmente	
+Substituta: sozinha
+
+Frase 354 rankings: para nisbett diferenças culturais principalmente na educação das crianças explicariam essa assimetria
+Palavra complexa: principalmente
+Palavras candidatas BERT: [UNK]	também	especialmente	
+Palavras candidatas Ranqueadas: também	especialmente	
+Substituta: também
+
+Frase 355 rankings: para nisbett diferenças culturais principalmente na educação das crianças explicariam essa assimetria
+Palavra complexa: assimetria
+Palavras candidatas BERT: [UNK]	mais	que	
+Palavras candidatas Ranqueadas: mais	que	
+Substituta: mais
+
+Frase 356 rankings: finalmente após dias de apreensão com problemas no veículo e uma histórica caminhada espacial de reparos a agência espacial americana autorizou o ônibus espacial discovery a enfrentar a turbulenta jornada que o separa da terra firme
+Palavra complexa: apreensão
+Palavras candidatas BERT: acidente	trabalho	carga	
+Palavras candidatas Ranqueadas: acidente	trabalho	carga	
+Substituta: acidente
+
+Frase 357 rankings: imagens da barriga do ônibus feitas pela dupla de astronautas residentes da iss estação espacial internacional antes que a nave atracasse ao complexo mostraram que duas tiras do tecido que preenche os vãos entre as telhas do escudo térmico da nave estavam protuberantes
+Palavra complexa: protuberantes
+Palavras candidatas BERT: [UNK]	mais	–	
+Palavras candidatas Ranqueadas: mais	
+Substituta: mais
+
+Frase 358 rankings: o procedimento primeira vez na história em que um astronauta se pôs embaixo do ônibus em órbita e fez reparos em seu escudo térmico foi executado anteontem pelas mãos do americano stephen robinson
+Palavra complexa: reparos
+Palavras candidatas BERT: [UNK]	que	mais	
+Palavras candidatas Ranqueadas: que	mais	
+Substituta: que
+
+Frase 359 rankings: os técnicos temiam que ela pudesse se soltar na reentrada e danificar a nave
+Palavra complexa: danificar
+Palavras candidatas BERT: destruir	quebrar	atingir	
+Palavras candidatas Ranqueadas: destruir	quebrar	atingir	
+Substituta: destruir
+
+Frase 360 rankings: foi a 60ª caminhada espacial conduzida em conexão com a construção e manutenção da estação
+Palavra complexa: manutenção
+Palavras candidatas BERT: construção	instalação	reforma	
+Palavras candidatas Ranqueadas: construção	instalação	reforma	
+Substituta: construção
+
+Frase 361 rankings: a última acontece amanhã de novo a ser efetuada por robinson e noguchi
+Palavra complexa: efetuada
+Palavras candidatas BERT: realizada	feita	feito	
+Palavras candidatas Ranqueadas: realizada	feita	feito	
+Substituta: realizada
+
+Frase 362 rankings: foi na esperança de entender o fenômeno que stevani e seus colaboradores se puseram a procurar cogumelos do tipo no brasil
+Palavra complexa: colaboradores
+Palavras candidatas BERT: funcionários	integrantes	aliados	
+Palavras candidatas Ranqueadas: funcionários	aliados	
+Substituta: funcionários
+
+Frase 363 rankings: é que a luz parece variar de acordo com a concentração de poluentes aplicados sobre o fungo
+Palavra complexa: concentração
+Palavras candidatas BERT: quantidade	proporção	porcentagem	
+Palavras candidatas Ranqueadas: quantidade	proporção	
+Substituta: quantidade
+
+Frase 364 rankings: como as técnicas desse tipo têm limitações é sempre bom contar com novas opções avalia stevani com a ressalva de que os estudos ainda estão no começo
+Palavra complexa: ressalva
+Palavras candidatas BERT: certeza	observação	diferença	
+Palavras candidatas Ranqueadas: certeza	observação	diferença	
+Substituta: certeza
+
+Frase 365 rankings: a descrição do único dente um molar inferior foi submetida para publicação numa revista científica mas os dados preliminares sugerem que o animal pode tanto ter sido um placentário como humanos cães ou baleias quanto um marsupial como os cangurus que carregam seus filhotes numa bolsa
+Palavra complexa: submetida
+Palavras candidatas BERT: [UNK]	u	mais	
+Palavras candidatas Ranqueadas: mais	
+Substituta: mais
+
+Frase 366 rankings: a linhagem dos marsupiais e placentários que são conhecidos pelo apelido comum de térios se distingue justamente pelas cavidades especiais dos molares que ajudam a triturar a comida com mais eficiência e estão presentes no espécime
+Palavra complexa: eficiência
+Palavras candidatas BERT: [UNK]	mais	recursos	
+Palavras candidatas Ranqueadas: mais	recursos	
+Substituta: mais
+
+Frase 367 rankings: para uma dupla de paleoantropólogos dos estados unidos o elemento que deu a partida na evolução da linhagem humana se encontra alguns palmos debaixo da terra e ainda faz qualquer um salivar diante de um prato de batata ou mandioca frita
+Palavra complexa: linhagem
+Palavras candidatas BERT: [UNK]	mais	–	
+Palavras candidatas Ranqueadas: mais	
+Substituta: mais
+
+Frase 368 rankings: para greg laden da universidade de minnesota e richard wrangham da universidade harvard raízes tubérculos e outros usos sigla em inglês para órgãos subterrâneos de armazenamento das plantas permitiram que os primeiros hominídeos como são conhecidos os ancestrais do homem saíssem da mata fechada e colonizassem ambientes abertos a partir de uns 6 milhões de anos atrás
+Palavra complexa: ancestrais
+Palavras candidatas BERT: [UNK]	mais	co	
+Palavras candidatas Ranqueadas: mais	
+Substituta: mais
+
+Frase 369 rankings: para provar a idéia os pesquisadores compilaram dados sobre raízes que são comestíveis sem cozimento dentro e fora da savana algumas das quais ainda usadas por tribos africanas hoje e viram que estavam corretos
+Palavra complexa: compilaram
+Palavras candidatas BERT: reuniram	fizeram	usaram	
+Palavras candidatas Ranqueadas: reuniram	fizeram	usaram	
+Substituta: reuniram
+
+Frase 370 rankings: o estudo estará numa edição futura do periódico científico journal of human evolution wwwsciencedirectcomsciencejournal 00472484
+Palavra complexa: científico
+Palavras candidatas BERT: [UNK]	–	mais	
+Palavras candidatas Ranqueadas: mais	
+Substituta: mais
+
+Frase 371 rankings: cremos que elas seriam mais eficientes que os soros atuais para inibir tanto a atividade hemorrágica quanto a miotóxica que afeta os músculos diz perales
+Palavra complexa: inibir
+Palavras candidatas BERT: estimular	impedir	diminuir	
+Palavras candidatas Ranqueadas: estimular	impedir	diminuir	
+Substituta: estimular
+
+Frase 372 rankings: a ficção científica americana na forma de livros ou de filmes é fascinada por robôs mas na prática são japoneses os que mais usam esses auxiliares automatizados do ser humano seja na indústria seja em residências
+Palavra complexa: fascinada
+Palavras candidatas BERT: dominada	ocupada	atração	
+Palavras candidatas Ranqueadas: dominada	ocupada	
+Substituta: fascinada
+
+Frase 373 rankings: a universidade de tóquio desenvolveu uma pele artificial para robôs que imita uma parcela significativa das qualidades e capacidades da pele humana normal
+Palavra complexa: significativa
+Palavras candidatas BERT: considerável	importante	parte	
+Palavras candidatas Ranqueadas: considerável	importante	parte	
+Substituta: considerável

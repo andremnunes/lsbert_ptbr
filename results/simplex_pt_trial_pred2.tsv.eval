@@ -1,0 +1,50 @@
+=========   EVALUATION config.=========
+GOLD file = /content/drive/MyDrive/tcc/BERT-LS-master/datasets/Simplex30_2.csv
+PREDICTION LABELS file = /content/drive/MyDrive/tcc/BERT-LS-master/results/prediction_simplex_ptbr_bert2_num_10.txt
+OUTPUT file = /content/drive/MyDrive/tcc/BERT-LS-master/results/simplex_pt_trial_pred2.tsv.eval
+===============   RESULTS  =============
+MAP@1/Potential@1/Precision@1 = 0.1795
+
+MAP@3 = 0.0999
+MAP@5 = 0.0719
+MAP@10 = 0.0407
+
+Potential@3 = 0.287
+Potential@5 = 0.3455
+Potential@10 = 0.4041
+
+Accuracy@1@top_gold_1 = 0.1763
+Accuracy@2@top_gold_1 = 0.2406
+Accuracy@3@top_gold_1 = 0.2824
+
+MacroAverage_Precision@1 = 0.1795
+MacroAverage_Precision@3 = 0.1235
+MacroAverage_Precision@5 = 0.1018
+MacroAverage_Precision@10 = 0.0727
+
+MacroAverage_Recall@1 = 0.0311
+MacroAverage_Recall@3 = 0.0605
+MacroAverage_Recall@5 = 0.0836
+MacroAverage_Recall@10 = 0.1092
+
+MacroAverage_F1@1 = 0.053
+MacroAverage_F1@3 = 0.0812
+MacroAverage_F1@5 = 0.0918
+MacroAverage_F1@10 = 0.0873
+
+MicroAverage_Precision@1 = 0.1795
+MicroAverage_Precision@3 = 0.1236
+MicroAverage_Precision@5 = 0.1021
+MicroAverage_Precision@10 = 0.074
+
+MicroAverage_Recall@1 = 0.1795
+MicroAverage_Recall@3 = 0.1236
+MicroAverage_Recall@5 = 0.1021
+MicroAverage_Recall@10 = 0.074
+
+MicroAverage_F1@1 = 0.1795
+MicroAverage_F1@3 = 0.1236
+MicroAverage_F1@5 = 0.1021
+MicroAverage_F1@10 = 0.074
+
+________________________________
